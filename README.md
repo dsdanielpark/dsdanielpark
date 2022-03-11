@@ -1,5 +1,6 @@
 ### Hello 👋 
-#### I study for AI Research Engineer in medical domain.
+#### I am working hard...
+### to become an AI researcher in the medical domain.
 
 ### ✨ I’m currently learning...
 - Computer Vision
