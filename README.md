@@ -1,4 +1,4 @@
-### Hello 👋 I'm a AI Research Engineer.
+### Hello 👋 I study for AI Research Engineer in medical domain.
 
 ### 🌱 I’m currently learning 
 - Computer Vision
@@ -8,7 +8,11 @@
 - Reinforcement Learning
 - etc.
 
-### 📫 How to reach me: ...
+### 📫 How to reach me
+- e-mail: parkminwoo1991@gmail.com
+- linked-in: https://www.linkedin.com/in/min-woo-park-1409071a5/
+- tistory: http://koreapy.tistory.com
+- rocketpunch: https://www.rocketpunch.com/@parkminwoo1991
 <!--
 **DSDanielPark/DSDanielPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
