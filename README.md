@@ -1,20 +1,20 @@
 ### Hello 👋 
-### 🌱 I'm studying hard...
+### 🌱 I'm studing hard...
 - to become an AI researcher in the medical domain.
 
 ### 🔭 I’m currently learning...
-- Computer Vision
-- Natural Language Process
-- Recommandation System
-- Video QA / Voice QA (for medical domain)
-- Reinforcement Learning
+- [1] Computer Vision
+- [2] Natural Language Process
+- [3] Recommandation System
+- [4] Video QA / Voice QA (for medical domain)
+- [5] Reinforcement Learning
 - etc.
 
 ### 📫 How to reach me...
-- e-mail: parkminwoo1991@gmail.com
-- linked-in: https://www.linkedin.com/in/min-woo-park-1409071a5/
-- tistory: http://koreapy.tistory.com
-- rocket-punch: https://www.rocketpunch.com/@parkminwoo1991
+- [1] e-mail: parkminwoo1991@gmail.com
+- [2] linked-in: https://www.linkedin.com/in/min-woo-park-1409071a5/
+- [3] tistory: http://koreapy.tistory.com
+- [4] rocket-punch: https://www.rocketpunch.com/@parkminwoo1991
 <!--
 **DSDanielPark/DSDanielPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
