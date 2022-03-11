@@ -1,6 +1,6 @@
 ### Hello 👋 I study for AI Research Engineer in medical domain.
 
-### 🌱 I’m currently learning 
+### 🌱 I’m currently learning...
 - Computer Vision
 - Natural Language Process
 - Recommandation System
@@ -8,7 +8,7 @@
 - Reinforcement Learning
 - etc.
 
-### 📫 How to reach me
+### 📫 How to reach me...
 - e-mail: parkminwoo1991@gmail.com
 - linked-in: https://www.linkedin.com/in/min-woo-park-1409071a5/
 - tistory: http://koreapy.tistory.com
