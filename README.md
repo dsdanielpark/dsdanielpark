@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hello 👋 I'm a AI Research Engineer.
 
+### 🌱 I’m currently learning 
+- Computer Vision
+- Natural Language Process
+- Recommandation System
+- Video QA / Voice QA (for medical domain)
+- Reinforcement Learning
+- etc.
+
+### 📫 How to reach me: ...
 <!--
 **DSDanielPark/DSDanielPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
