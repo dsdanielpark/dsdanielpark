@@ -1,4 +1,4 @@
-### Hello 👋 
+### Hello 👋 I'm MinWoo Park in Seoul, Korea.
 ### 🌱 I'm studing hard...
 - to become an AI researcher in the medical domain.
 
