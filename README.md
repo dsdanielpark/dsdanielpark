@@ -1,6 +1,6 @@
 ### Hello 👋 My name is Minwoo Park(Daniel Park) and I live in Seoul, Korea.
 ### 🌱 I'm studing hard...
-- to become an AI researcher in the medical domain.
+  - to become an AI researcher in the medical domain.
 
 ### 🔭 I’m currently learning...
 - [1] Computer Vision
