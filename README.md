@@ -1,5 +1,6 @@
 ### Hello 👋 
-### 🌱 I'm studying hard...to become an AI researcher in the medical domain.
+### 🌱 I'm studying hard...
+- to become an AI researcher in the medical domain.
 
 ### ✨ I’m currently learning...
 - Computer Vision
