@@ -2,7 +2,7 @@
 ### 🌱 I'm studying hard...
 - to become an AI researcher in the medical domain.
 
-### ✨ I’m currently learning...
+### 🔭 I’m currently learning...
 - Computer Vision
 - Natural Language Process
 - Recommandation System
@@ -10,11 +10,11 @@
 - Reinforcement Learning
 - etc.
 
-### 🔭 How to reach me...
+### 📫 How to reach me...
 - e-mail: parkminwoo1991@gmail.com
 - linked-in: https://www.linkedin.com/in/min-woo-park-1409071a5/
 - tistory: http://koreapy.tistory.com
-- rocketpunch: https://www.rocketpunch.com/@parkminwoo1991
+- rocket-punch: https://www.rocketpunch.com/@parkminwoo1991
 <!--
 **DSDanielPark/DSDanielPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
