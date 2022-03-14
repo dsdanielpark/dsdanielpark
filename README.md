@@ -13,8 +13,9 @@
 ### 📫 How to reach me...
 - [1] e-mail: parkminwoo1991@gmail.com
 - [2] tistory: http://koreapy.tistory.com
-- [3] linked-in: https://www.linkedin.com/in/min-woo-park-1409071a5/
+- [3] linked-in: http://www.linkedin.com/in/min-woo-p-1409071a5
 - [4] rocket-punch: https://www.rocketpunch.com/@parkminwoo1991
+- [5] git-hub: https://github.com/DSDanielPark
 <!--
 **DSDanielPark/DSDanielPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
