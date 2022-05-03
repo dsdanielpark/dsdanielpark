@@ -1,8 +1,8 @@
-### Hello 👋 My name is Minwoo Park(Daniel Park) and I live in Seoul, Korea.
-### 🌱 I'm studing hard...
+### Hello My name is Minwoo Park(Daniel Park) and I live in Seoul, Korea.
+### I'm studing hard...
 - to become an AI researcher in the medical domain.
 
-### 🔭 I’m currently learning...
+### I’m currently learning...
 - [1] Computer Vision
 - [2] Natural Language Process
 - [3] Recommandation System
@@ -10,7 +10,7 @@
 - [5] Reinforcement Learning
 - etc.
 
-### 📫 How to reach me...
+### How to reach me...
 - [1] e-mail: parkminwoo1991@gmail.com
 - [2] tistory: http://koreapy.tistory.com
 - [3] linked-in: http://www.linkedin.com/in/min-woo-p-1409071a5
