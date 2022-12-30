@@ -6,9 +6,9 @@
 - [1] Computer Vision
 - [2] Natural Language Process
 - [3] Recommandation System
-- [4] Video QA / Voice QA (for medical domain)
+- [4] Datal Analysis
 - [5] Reinforcement Learning
-- etc.
+- etc. (Front, Back, BlockChain)
 
 ### How to reach me...
 - [1] e-mail: parkminwoo1991@gmail.com
