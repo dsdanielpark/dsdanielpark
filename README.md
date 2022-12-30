@@ -1,4 +1,5 @@
-### Hello My name is Minwoo Park(Daniel Park) and I live in Seoul, Korea.
+### Hello 
+My name is Minwoo Park(Daniel Park) and I live in Seoul, Korea.
 ### I'm studing hard...
 - to become an AI research engineer.
 
