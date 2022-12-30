@@ -8,7 +8,7 @@
 - [3] Recommandation System
 - [4] Datal Analysis
 - [5] Reinforcement Learning
-- etc. (Front, Back, BlockChain)
+- (Front, Back, BlockChain) etc. 
 
 ### How to reach me...
 - [1] e-mail: parkminwoo1991@gmail.com
