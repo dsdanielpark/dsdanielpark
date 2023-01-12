@@ -7,7 +7,7 @@ I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
 - [3] Recommandation System
 - [4] Datal Analysis
 - [5] Reinforcement Learning
-- Front, Back, BlockChain etc. 
+<br> Front, Back, BlockChain etc. 
 
 ### How to reach me...
 - [1] e-mail: parkminwoo1991@gmail.com
