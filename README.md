@@ -1,5 +1,5 @@
 ### Hello! World!
-My name is Minwoo Park(Daniel Park) and I live in Seoul, Korea.
+I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
 
 ### I’m currently learning...
 - [1] Computer Vision
