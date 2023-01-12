@@ -1,7 +1,7 @@
 ### Hello! World!
 I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
 
-### I’m currently learning...
+### I’m currently studying...
 - [1] Computer Vision
 - [2] Natural Language Process
 - [3] Recommandation System
