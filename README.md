@@ -1,7 +1,5 @@
 ### Hello! World!
 My name is Minwoo Park(Daniel Park) and I live in Seoul, Korea.
-### I'm studing hard...
-- to become an AI research engineer.
 
 ### I’m currently learning...
 - [1] Computer Vision
@@ -9,7 +7,7 @@ My name is Minwoo Park(Daniel Park) and I live in Seoul, Korea.
 - [3] Recommandation System
 - [4] Datal Analysis
 - [5] Reinforcement Learning
-- (Front, Back, BlockChain) etc. 
+- Front, Back, BlockChain etc. 
 
 ### How to reach me...
 - [1] e-mail: parkminwoo1991@gmail.com
