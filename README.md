@@ -1,6 +1,8 @@
 ### Hello! World!
 I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
 
+✨🍰✨All project codes studied internally by the company are not available, so I am working on a personal project for my portfolio.
+
 ### I’m currently studying...
 - [1] Computer Vision
 - [2] Natural Language Process
