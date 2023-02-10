@@ -1,21 +1,21 @@
 ### Hello! World!
 I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
-
-✨ I am training to become a slow but insightful developer and a skillful and quick-witted engineer. 
-🍰 I am studying various fields, but someday knowledge will gather at the end of the road.
-✨ No smoke without fire. 😄 Happy Coding!
+<BR>
+✨ I am training to become a slow but insightful developer and a skillful and quick-witted engineer. <br>
+🍰 I am studying various fields, but someday knowledge will gather at the end of the road. <Br>
+⚡ Where there’s a will, there’s a way.😄 Happy Coding! <Br>
 
 ### I’m currently studying...
-- [1] Computer Vision
-- [2] Natural Language Process
-- [3] Recommandation System
-- [4] Datal Analysis
-- [5] Reinforcement Learning
+- Computer Vision
+- Natural Language Process
+- Recommandation System
+- Datal Analysis
+- Reinforcement Learning
 <br> Front, Back, BlockChain etc. 
 
 ### How to reach me...
-- [1] e-mail: parkminwoo1991@gmail.com
-- [2] linked-in: http://www.linkedin.com/in/min-woo-p-1409071a5
+- 📫 e-mail: parkminwoo1991@gmail.com
+- 💬 linked-in: http://www.linkedin.com/in/min-woo-p-1409071a5
 
 <!--
 **DSDanielPark/DSDanielPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
