@@ -1,7 +1,9 @@
 ### Hello! World!
 I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
 
-✨🍰✨I am working on personal projects for my portfolio as the company's research codes can not be opened.
+✨ I am training to become a slow but insightful developer and a skillful and quick-witted engineer. 
+🍰 I am studying various fields, but someday knowledge will gather at the end of the road.
+✨ No smoke without fire. 😄 Happy Coding!
 
 ### I’m currently studying...
 - [1] Computer Vision
