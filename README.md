@@ -6,11 +6,11 @@ I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
 ⚡ Where there’s a will, there’s a way. Happy Coding! 😎 <Br>
 
 ### PyPi packages
-  |No|Package Name|Pypi command|GitHub-Source|Description|
-  |:--:|:--:|:--:|:--:|:--|
-  |1|Quick-Show| pip install [quickshow](https://pypi.org/project/quickshow/)|[:bookmark_tabs:](https://github.com/DSDanielPark/quick-show)|Quickly and easily plot frequently used dataframes as input.|
-  |2|Corpus-Show| pip install [corpusshow](https://pypi.org/project/corpusshow/)|[:bookmark_tabs:](https://github.com/DSDanielPark/corpus-show)|Provide dimensionality reduction plot with corpus dataframe as input.|
-  |3|EDA-NIf| pip install [edanif](https://pypi.org/project/edanif/)|[:bookmark_tabs:](https://github.com/DSDanielPark/EDA-NIf)|Easily and quickly create a metadata frame by inputting the name of the folder where nifti files exist (several useful functions are provided).|
+  |Package Name | PyPi command | Description |
+  |:--:|:--:|:--:|
+  |Quick-Show| `pip install quickshow` | Quickly and easily plot frequently used dataframes as input. [[PyPi]](https://pypi.org/project/quickshow/) [[Github]](https://github.com/DSDanielPark/corpus-show) [[Tutorial]](https://github.com/DSDanielPark/quick-show/blob/main/tutorial/tutorial.ipynb)|
+  |Corpus-Show| pip install corpusshow|Provide dimensionality reduction plot with corpus dataframe as input. [[PyPi]](https://pypi.org/project/corpusshow/) [[Github]](https://github.com/DSDanielPark/corpus-show) [[Tutorial]](https://github.com/DSDanielPark/corpus-show/blob/main/tutorials/corpusshow_tutorial.ipynb) |
+  |EDA-NIf| pip install edanif|Easily and quickly create a metadata frame by inputting the name of the folder where nifti files exist (several useful functions are provided). [[PyPi]](https://pypi.org/project/edanif/) [[Github]](https://github.com/DSDanielPark/EDA-NIf) [[Tutorial]](https://github.com/DSDanielPark/EDA-NIf/blob/main/tutorials/edanif_tutorial.ipynb)|
   
   
 ### I’m currently studying...
