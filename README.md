@@ -5,6 +5,14 @@ I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
 🍰 I am studying various fields, but someday knowledge will gather at the end of the road. <Br>
 ⚡ Where there’s a will, there’s a way. Happy Coding! 😎 <Br>
 
+### PyPi packages
+  |No|Package Name|Pypi command|GitHub-Source|Description|
+  |:--:|:--:|:--:|:--:|:--|
+  |1|Quick-Show| pip install [quickshow](https://pypi.org/project/quickshow/)|[DSDanielPark/quick-show](https://github.com/DSDanielPark/quick-show)|Quickly and easily plot frequently used dataframes as input.|
+  |2|Corpus-Show| pip install [corpusshow](https://pypi.org/project/corpusshow/)|[DSDanielPark/corpus-show](https://github.com/DSDanielPark/corpus-show)|Provide dimensionality reduction plot with corpus dataframe as input.|
+  |3|EDA-NIf| pip install [edanif](https://pypi.org/project/edanif/)|[DSDanielPark/EDA-NIf](https://github.com/DSDanielPark/EDA-NIf)|Easily and quickly create a metadata frame by inputting the name of the folder where nifti files exist (several useful functions are provided).|
+  
+  
 ### I’m currently studying...
 - Computer Vision
 - Natural Language Process
@@ -16,18 +24,3 @@ I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
 ### How to reach me...
 - 📫 e-mail: parkminwoo1991@gmail.com
 - 💬 linked-in: http://www.linkedin.com/in/min-woo-p-1409071a5
-
-<!--
-**DSDanielPark/DSDanielPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
