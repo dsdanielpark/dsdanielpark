@@ -8,9 +8,9 @@ I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
 ### PyPi packages
   |No|Package Name|Pypi command|GitHub-Source|Description|
   |:--:|:--:|:--:|:--:|:--|
-  |1|Quick-Show| pip install [quickshow](https://pypi.org/project/quickshow/)|[:octocat:](https://github.com/DSDanielPark/quick-show)|Quickly and easily plot frequently used dataframes as input.|
-  |2|Corpus-Show| pip install [corpusshow](https://pypi.org/project/corpusshow/)|[:octocat:](https://github.com/DSDanielPark/corpus-show)|Provide dimensionality reduction plot with corpus dataframe as input.|
-  |3|EDA-NIf| pip install [edanif](https://pypi.org/project/edanif/)|[:octocat:](https://github.com/DSDanielPark/EDA-NIf)|Easily and quickly create a metadata frame by inputting the name of the folder where nifti files exist (several useful functions are provided).|
+  |1|Quick-Show| pip install [quickshow](https://pypi.org/project/quickshow/)|[:bookmark_tabs:](https://github.com/DSDanielPark/quick-show)|Quickly and easily plot frequently used dataframes as input.|
+  |2|Corpus-Show| pip install [corpusshow](https://pypi.org/project/corpusshow/)|[:bookmark_tabs:](https://github.com/DSDanielPark/corpus-show)|Provide dimensionality reduction plot with corpus dataframe as input.|
+  |3|EDA-NIf| pip install [edanif](https://pypi.org/project/edanif/)|[:bookmark_tabs:](https://github.com/DSDanielPark/EDA-NIf)|Easily and quickly create a metadata frame by inputting the name of the folder where nifti files exist (several useful functions are provided).|
   
   
 ### I’m currently studying...
