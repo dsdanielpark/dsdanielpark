@@ -14,6 +14,9 @@ I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
   
   
 ### Honors and Awards
+  
+  
+### Papers
 
 ### I’m currently studying...
 - Computer Vision
