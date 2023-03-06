@@ -6,7 +6,7 @@ I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
 ⚡ Where there’s a will, there’s a way. Happy Coding! <Br>
 
 ### PyPi packages
-  |Package Name | PyPi command | Description |
+  |package | pip command | description |
   |:--:|:--:|:--:|
   |Quick-Show| `pip install quickshow` | Quickly and easily plot frequently used dataframes as input. <br> [[PyPi]](https://pypi.org/project/quickshow/) [[Github]](https://github.com/DSDanielPark/corpus-show) [[Tutorial]](https://github.com/DSDanielPark/quick-show/blob/main/tutorial/tutorial.ipynb)|
   |Corpus-Show| `pip install corpusshow` |Provide dimensionality reduction plot with corpus dataframe as input. <br> [[PyPi]](https://pypi.org/project/corpusshow/) [[Github]](https://github.com/DSDanielPark/corpus-show) [[Tutorial]](https://github.com/DSDanielPark/corpus-show/blob/main/tutorials/corpusshow_tutorial.ipynb) |
