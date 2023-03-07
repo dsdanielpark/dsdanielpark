@@ -13,7 +13,11 @@ Where there’s a will, there’s a way. <Br>
 ### PyPI packages
 ```bash
 pip install quickshow
+```
+```properties
 pip install corpusshow
+```
+```properties
 pip install edanif
 ```
   
