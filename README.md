@@ -8,6 +8,12 @@ I am training to become a slow but insightful developer and a skillful and quick
 I am studying various fields, but someday knowledge will gather at the end of the road. <Br>
 Where there’s a will, there’s a way. <Br>
 
+```bash
+pip install quickshow
+pip install corpusshow
+pip install edanif
+```
+  
 ### PyPI packages
   |package | pip command | description |
   |:--:|:--:|:--:|
