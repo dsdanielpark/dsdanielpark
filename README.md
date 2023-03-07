@@ -13,7 +13,7 @@ Where there’s a will, there’s a way. <Br>
   |EDA-NIf| `pip install edanif` |Easily and quickly create a metadata frame by inputting the name of the folder where 📄 `NIfTi files` exist (several useful functions are provided). <br> [[PyPi]](https://pypi.org/project/edanif/) [[Github]](https://github.com/DSDanielPark/EDA-NIf) [[Tutorial]](https://github.com/DSDanielPark/EDA-NIf/blob/main/tutorials/edanif_tutorial.ipynb)|
   
   
-### Honors and Awards
+### Honors & awards
   
   
 ### Papers
