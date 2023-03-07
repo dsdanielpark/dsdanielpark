@@ -8,13 +8,15 @@ I am training to become a slow but insightful developer and a skillful and quick
 I am studying various fields, but someday knowledge will gather at the end of the road. <Br>
 Where there’s a will, there’s a way. <Br>
 
+
+  
+### PyPI packages
 ```bash
 pip install quickshow
 pip install corpusshow
 pip install edanif
 ```
   
-### PyPI packages
   |package | pip command | description |
   |:--:|:--:|:--:|
   |Quick-Show| `pip install quickshow` | Quickly and easily plot frequently used dataframes as input. <br> [[PyPi]](https://pypi.org/project/quickshow/) [[Github]](https://github.com/DSDanielPark/corpus-show) [[Tutorial]](https://github.com/DSDanielPark/quick-show/blob/main/tutorial/tutorial.ipynb)|
