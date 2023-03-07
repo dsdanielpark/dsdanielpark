@@ -21,13 +21,12 @@ Where there’s a will, there’s a way. <Br>
   
 ```bash
 pip install quickshow
-```
-```properties
+
 pip install corpusshow
-```
-```properties
+
 pip install edanif
 ```  
+  
 ### Honors & awards
   
   
