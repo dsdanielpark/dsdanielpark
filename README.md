@@ -2,10 +2,10 @@
 print("Hello! World!")
 ```
 
-I'm Minwoo Park(Daniel Park) live in Seoul, South Korea.
+Minwoo Park(Daniel Park) live in Seoul, South Korea.
 <BR>
 I am training to become a slow but insightful developer and a skillful and quick-witted engineer. <br>
-I am studying various fields, but someday knowledge will gather at the end of the road. <Br>
+I believe that if I study various fields, someday knowledge will gather at the end of the road. <Br>
 Where there’s a will, there’s a way. <Br>
 
 
