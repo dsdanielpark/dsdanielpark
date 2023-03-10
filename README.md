@@ -42,4 +42,4 @@ pip install edanif
 
 ### How to reach me...
 - 📫 e-mail: parkminwoo1991@gmail.com
-- 💬 linked-in: http://www.linkedin.com/in/min-woo-p-1409071a5
+- 💬 linked-in: http://linkedin.com/in/dsdanielpark
