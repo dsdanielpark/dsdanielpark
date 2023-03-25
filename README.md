@@ -2,7 +2,7 @@
 print("Hello! World!")
 ```
 
-Minwoo Park(Daniel Park) live in Seoul, South Korea.
+
 <BR>
 I am training to become a slow but insightful developer and a skillful and quick-witted engineer. <br>
 I believe that if I study various fields, someday knowledge will gather at the end of the road. <Br>
