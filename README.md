@@ -28,7 +28,10 @@ pip install youtuber
 ```  
 
 ### Dataset
-[1] KMI2122-dataset: A Collection of Korea Macroeconomic Indicators from 2021-2022 (Monthly, 24 Sequences) <br>
+    
+|dataset | pip command | description |
+|:--:|:--:|:--:|
+| KMI2122-dataset | `pip install kmi2122`| A Collection of Korea Macroeconomic Indicators from 2021-2022 (Monthly, 24 Sequences) <br>
 [[PyPI]](https://pypi.org/project/kmi2122/) [[Github]](https://github.com/DSDanielPark/kmi2122-dataset) [[Tutorial]](https://github.com/DSDanielPark/kmi2122-dataset/blob/main/doc/tutorial.ipynb)
   
 
