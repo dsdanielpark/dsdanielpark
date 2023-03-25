@@ -27,7 +27,7 @@ pip install edanif
 pip install youtuber
 ```  
 
-### Dataset
+### PyPI Dataset
     
 |dataset | pip command | description |
 |:--:|:--:|:--:|
