@@ -54,5 +54,5 @@ pip install kmi2122
 <br> Front, Back, BlockChain etc. 
 
 ### How to reach me...
-- 📫 e-mail: parkminwoo1991@gmail.com
-- 💬 linked-in: http://linkedin.com/in/dsdanielpark
+- e-mail: parkminwoo1991@gmail.com
+- linked-in: http://linkedin.com/in/dsdanielpark
