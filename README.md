@@ -49,4 +49,3 @@ pip install kmi2122
 
 ### How to reach me...
 - e-mail: parkminwoo1991@gmail.com
-- linked-in: http://linkedin.com/in/dsdanielpark
