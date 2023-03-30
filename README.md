@@ -25,6 +25,8 @@ pip install quickshow
 pip install corpusshow
 pip install edanif
 pip install youtuber
+pip install docfilter
+pip install googledriver
 ```  
 
 ### PyPI Dataset
