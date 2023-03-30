@@ -38,12 +38,6 @@ pip install googledriver
 ```
 pip install kmi2122
 ```
-  
-
-### Honors & awards
-  
-  
-### Papers
 
 ### I’m currently studying...
 - Computer Vision
