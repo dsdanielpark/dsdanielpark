@@ -8,7 +8,7 @@ I am training to become a insightful developer and a skillful and quick-witted e
 I believe that someday, all the knowledge I've acquired will come together at the end of the journey. <Br>
 Where there’s a will, there’s a way. <Br>
 
-### Python Projects
+### Projects
   
   | Project | Description |
   |:--|:--|
@@ -18,7 +18,7 @@ Where there’s a will, there’s a way. <Br>
   
   I have experience in performing multiple projects, including analyzing and modeling data from the cohort of Korean National Health Insurance Corporation, CT and MRI-related projects, real estate price prediction project for KB Financial Group, extracting key factors from engineering drawings of Hyundai Motor Group using various algorithms developed through image processing algorithm with OCR models, data processing project using pyspark and Hadoop, and analyzing blood and hair metabolites of pets. I also have experience in planning and winning business projects. However, since the projects were developed for commercial purposes, no information is disclosed to the public.
   
-### Python Packages 
+### Packages 
   link: https://pypi.org/user/archi-park/
   | Package | Description |
   |:--:|:--|
@@ -31,5 +31,5 @@ Where there’s a will, there’s a way. <Br>
   |Doc Filter|The Python package docfilter is used to detect and remove inappropriate information from text. <br> [[PyPI]](https://pypi.org/project/docfilter/) [[Github]](https://github.com/DSDanielPark/docfilter) [Tutorial]  <br> `pip install docfilter` |
   |KMI 2122 Dataset|This dataset includes some macroeconomic indicators for South Korea in 2021-2022.  <br> [[PyPI]](https://pypi.org/project/kmi2122/) [[Github]](https://github.com/DSDanielPark/kmi2122-dataset) [[Tutorial]](https://github.com/DSDanielPark/kmi2122-dataset/blob/main/doc/tutorial.ipynb) <br> `pip install kmi2122`|
  
-### Hugging Face Pages
+### Huggingface
   link: https://huggingface.co/danielpark
