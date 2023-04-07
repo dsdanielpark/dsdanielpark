@@ -10,6 +10,7 @@ Where there’s a will, there’s a way. <Br>
 
 ### Python Projects
   | Project | Description |
+    |:--:|:--|
   | GPT-BERT-Medical-QA-Chatbot| [[Github]](https://github.com/DSDanielPark/GPT-BERT-Medical-QA-Chatbot)
   | Korean-news-topic-classification-using-KO-BERT | [[Github]](https://github.com/DSDanielPark/fine-tuned-korean-BERT-news-article-classifier) |
   | Multi-objective-recommender | [[GitHub]](https://github.com/DSDanielPark/kaggle2023-multi-objective-recommender)|
