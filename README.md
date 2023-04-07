@@ -10,8 +10,8 @@ Where there’s a will, there’s a way. <Br>
 
 
   
-### PyPI 
-  https://pypi.org/user/archi-park/
+### Python Projects 
+  link: https://pypi.org/user/archi-park/
   | Package | Description |
   |:--:|:--|
   |QuickShow| Quickly and easily plot frequently used dataframes as input. <br> [[PyPI]](https://pypi.org/project/quickshow/) [[Github]](https://github.com/DSDanielPark/quick-show) [[Tutorial]](https://github.com/DSDanielPark/quick-show/blob/main/tutorial/tutorial.ipynb) <br> `pip install quickshow` |
@@ -23,5 +23,5 @@ Where there’s a will, there’s a way. <Br>
   |DocFilter|The Python package docfilter is used to detect and remove inappropriate information from text. <br> `pip install docfilter` |
   |KMI2122 Dataset|This dataset includes some macroeconomic indicators for South Korea in 2021-2022.  <br> [[PyPI]](https://pypi.org/project/kmi2122/) [[Github]](https://github.com/DSDanielPark/kmi2122-dataset) [[Tutorial]](https://github.com/DSDanielPark/kmi2122-dataset/blob/main/doc/tutorial.ipynb) <br> `pip install kmi2122`|
  
-### Hugging Face 
-  https://huggingface.co/danielpark
+### Hugging Face Pages
+  link: https://huggingface.co/danielpark
