@@ -8,9 +8,14 @@ I am training to become a insightful developer and a skillful and quick-witted e
 I believe that someday, all the knowledge I've acquired will come together at the end of the journey. <Br>
 Where there’s a will, there’s a way. <Br>
 
-
+### Python Projects
+  | Project | Description |
+  | GPT-BERT-Medical-QA-Chatbot| [[Github]](https://github.com/DSDanielPark/GPT-BERT-Medical-QA-Chatbot)
+  | Korean-news-topic-classification-using-KO-BERT | [[Github]](https://github.com/DSDanielPark/fine-tuned-korean-BERT-news-article-classifier) |
+  | Multi-objective-recommender | [[GitHub]](https://github.com/DSDanielPark/kaggle2023-multi-objective-recommender)|
+  I have experience in performing multiple projects, including analyzing and modeling data from the cohort of Korean National Health Insurance Corporation, CT and MRI-related projects, real estate price prediction project for KB Financial Group, extracting key factors from engineering drawings of Hyundai Motor Group using various algorithms developed through image processing algorithm with OCR models, data processing project using pyspark and Hadoop, and analyzing blood and hair metabolites of pets. I also have experience in planning and winning business projects. However, since the projects were developed for commercial purposes, no information is disclosed to the public.
   
-### Python Projects 
+### Python Packages 
   link: https://pypi.org/user/archi-park/
   | Package | Description |
   |:--:|:--|
