@@ -9,11 +9,13 @@ I believe that someday, all the knowledge I've acquired will come together at th
 Where there’s a will, there’s a way. <Br>
 
 ### Python Projects
+  
   | Project | Description |
-    |:--:|:--|
-  | GPT-BERT-Medical-QA-Chatbot| [[Github]](https://github.com/DSDanielPark/GPT-BERT-Medical-QA-Chatbot)
-  | Korean-news-topic-classification-using-KO-BERT | [[Github]](https://github.com/DSDanielPark/fine-tuned-korean-BERT-news-article-classifier) |
-  | Multi-objective-recommender | [[GitHub]](https://github.com/DSDanielPark/kaggle2023-multi-objective-recommender)|
+  |:--|:--|
+  | GPT-BERT-Medical-QA-Chatbot| Medical domain-focused GPT-2 fine-tuning, optimization, and lightweighting research repository (compared to GPT-4). <br> [[Github]](https://github.com/DSDanielPark/GPT-BERT-Medical-QA-Chatbot) |
+  | Korean-news-topic-classification-using-KO-BERT | Model for classifying Korean news articles into eight pre-defined categories using a fine-tuned Korean BERT news article classifier. [[Github]](https://github.com/DSDanielPark/fine-tuned-korean-BERT-news-article-classifier) |
+  | Multi-objective-recommender | This study proposes a recommendation system model based on e-commerce log data that utilizes ranking and re-ranking techniques. The model aims to improve the accuracy of product recommendations by incorporating user behavior data such as click-through rates and purchase history. [[GitHub]](https://github.com/DSDanielPark/kaggle2023-multi-objective-recommender)|
+  
   I have experience in performing multiple projects, including analyzing and modeling data from the cohort of Korean National Health Insurance Corporation, CT and MRI-related projects, real estate price prediction project for KB Financial Group, extracting key factors from engineering drawings of Hyundai Motor Group using various algorithms developed through image processing algorithm with OCR models, data processing project using pyspark and Hadoop, and analyzing blood and hair metabolites of pets. I also have experience in planning and winning business projects. However, since the projects were developed for commercial purposes, no information is disclosed to the public.
   
 ### Python Packages 
