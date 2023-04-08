@@ -4,9 +4,12 @@ print("Hello! World!")
 
 
 <BR>
+  
+### *Where there’s a will, there’s a way.*
 I am training to become a insightful developer and a skillful and quick-witted engineer. <br>
 I believe that someday, all the knowledge I've acquired will come together at the end of the journey. <Br>
-Where there’s a will, there’s a way. <Br>
+
+  <br>
 
 ### Projects
   
