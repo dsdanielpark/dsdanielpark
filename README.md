@@ -18,6 +18,8 @@ Where there’s a will, there’s a way. <Br>
   
 I have experience in working on a variety of projects, including analyzing and modeling data from the Korean National Health Insurance Corporation's cohort, CT and MRI-related projects, real estate price prediction for KB Financial Group, extracting key factors from Hyundai Motor Group's engineering drawings using various algorithms developed through image processing and OCR models, data processing projects using PySpark and Hadoop, and analyzing blood and hair metabolites of pets. I also have experience in planning and securing business projects. However, since these projects were developed for commercial purposes, no information is publicly disclosed.
   
+<br> 
+ 
 ### Packages 
   link: https://pypi.org/user/archi-park/
   | Package | Description |
@@ -30,6 +32,8 @@ I have experience in working on a variety of projects, including analyzing and m
  |Google Driver|The Python package google drive facilitates access to files uploaded to Google Drive. <br> [[PyPI]](https://pypi.org/project/googledriver/) [[Github]](https://github.com/DSDanielPark/google-driver) [[Tutorial]](https://github.com/DSDanielPark/google-driver/blob/main/docs/tutorial.ipynb)  <br> `pip install googledriver`|
   |Doc Filter|The Python package docfilter is used to detect and remove inappropriate information from text. <br> [[PyPI]](https://pypi.org/project/docfilter/) [[Github]](https://github.com/DSDanielPark/docfilter) [Tutorial]  <br> `pip install docfilter` |
   |KMI 2122 Dataset|This dataset includes some macroeconomic indicators for South Korea in 2021-2022.  <br> [[PyPI]](https://pypi.org/project/kmi2122/) [[Github]](https://github.com/DSDanielPark/kmi2122-dataset) [[Tutorial]](https://github.com/DSDanielPark/kmi2122-dataset/blob/main/doc/tutorial.ipynb) <br> `pip install kmi2122`|
+ 
+<br> 
  
 ### Huggingface
   link: https://huggingface.co/danielpark
