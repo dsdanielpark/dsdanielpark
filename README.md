@@ -21,7 +21,7 @@ I have experience in working on a variety of projects, including analyzing and m
 ### Packages 
   link: https://pypi.org/user/archi-park/
   | Package | Description |
-  |:--:|:--|
+  |:--|:--|
   |Quick Show| Quickly and easily plot frequently used dataframes as input. <br> [[PyPI]](https://pypi.org/project/quickshow/) [[Github]](https://github.com/DSDanielPark/quick-show) [[Tutorial]](https://github.com/DSDanielPark/quick-show/blob/main/tutorial/tutorial.ipynb) <br> `pip install quickshow` |
   |Corpus Show| Provide dimensionality reduction plot with corpus dataframe as input. <br> [[PyPI]](https://pypi.org/project/corpusshow/) [[Github]](https://github.com/DSDanielPark/corpus-show) [[Tutorial]](https://github.com/DSDanielPark/corpus-show/blob/main/tutorials/corpusshow_tutorial.ipynb) <br> `pip install corpusshow` |
   |EDA NIf| Easily and quickly create a metadata frame by inputting the name of the folder where NIfTi files exist (several useful functions are provided). <br> [[PyPI]](https://pypi.org/project/edanif/) [[Github]](https://github.com/DSDanielPark/EDA-NIf) [[Tutorial]](https://github.com/DSDanielPark/EDA-NIf/blob/main/tutorials/edanif_tutorial.ipynb) <br> `pip install edanif`|
