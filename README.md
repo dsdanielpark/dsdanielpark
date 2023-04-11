@@ -3,8 +3,6 @@
 I am training to become a insightful developer and a skillful and quick-witted engineer. <br>
 I believe that someday, all the knowledge I've acquired will come together at the end of the journey.
 
-<Br>
-
 
 ### *Projects*
   
