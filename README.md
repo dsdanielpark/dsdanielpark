@@ -5,7 +5,7 @@ I believe that someday, all the knowledge I've acquired will come together at th
 
   <br>
 
-### Projects
+### *Projects*
   
   | Project | Description |
   |:--|:--|
@@ -17,7 +17,7 @@ I have experience in working on a variety of projects, including analyzing and m
   
 <br> 
  
-### Packages 
+### *Packages*
   link: https://pypi.org/user/archi-park/
   | Package | Description |
   |:--|:--|
@@ -32,10 +32,10 @@ I have experience in working on a variety of projects, including analyzing and m
  
 <br> 
  
-### Huggingface
+### *Huggingface*
   link: https://huggingface.co/danielpark
   
 <br>
   
-### DockerHub
+### *DockerHub*
   link: https://hub.docker.com/u/parkminwoo91
