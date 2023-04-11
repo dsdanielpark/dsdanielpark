@@ -26,7 +26,7 @@ I have experience in working on a variety of projects, including analyzing and m
   |Util Function| The Python package utilfunction wraps and distributes useful functions in an easy-to-use way. <br> `pip install utilfunction` <br> [[PyPI]](https://pypi.org/project/utilfunction/) [[Github]](https://github.com/DSDanielPark/util-function) [Tutorial] |
  |Google Driver|The Python package google drive facilitates access to files uploaded to Google Drive. <br> [[PyPI]](https://pypi.org/project/googledriver/) [[Github]](https://github.com/DSDanielPark/google-driver) [[Tutorial]](https://github.com/DSDanielPark/google-driver/blob/main/docs/tutorial.ipynb)  <br> `pip install googledriver`|
   |Doc Filter|The Python package docfilter is used to detect and remove inappropriate information from text. <br> [[PyPI]](https://pypi.org/project/docfilter/) [[Github]](https://github.com/DSDanielPark/docfilter) [Tutorial]  <br> `pip install docfilter` |
-  |KMI Dataset|TKorea Macroeconomic Indicators from 2021-2022 <br> [[PyPI]](https://pypi.org/project/kmi2122/) [[Github]](https://github.com/DSDanielPark/kmi2122-dataset) [[Tutorial]](https://github.com/DSDanielPark/kmi2122-dataset/blob/main/doc/tutorial.ipynb) <br> `pip install kmi2122`|
+  |KMI Dataset|Korea Macroeconomic Indicators from 2021-2022 <br> [[PyPI]](https://pypi.org/project/kmi2122/) [[Github]](https://github.com/DSDanielPark/kmi2122-dataset) [[Tutorial]](https://github.com/DSDanielPark/kmi2122-dataset/blob/main/doc/tutorial.ipynb) <br> `pip install kmi2122`|
  
 ### *Huggingface*
   link: https://huggingface.co/danielpark
