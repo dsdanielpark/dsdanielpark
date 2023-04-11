@@ -1,9 +1,10 @@
 
 ### *Where there’s a will, there’s a way.*
 I am training to become a insightful developer and a skillful and quick-witted engineer. <br>
-I believe that someday, all the knowledge I've acquired will come together at the end of the journey. <Br>
+I believe that someday, all the knowledge I've acquired will come together at the end of the journey.
 
-  <br>
+<Br>
+
 
 ### *Projects*
   
@@ -15,7 +16,6 @@ I believe that someday, all the knowledge I've acquired will come together at th
   
 I have experience in working on a variety of projects, including analyzing and modeling data from the Korean National Health Insurance Corporation's cohort, CT and MRI-related projects, real estate price prediction for KB Financial Group, extracting key factors from Hyundai Motor Group's engineering drawings using various algorithms developed through image processing and OCR models, data processing projects using PySpark and Hadoop, and analyzing blood and hair metabolites of pets. I also have experience in planning and securing business projects. However, since these projects were developed for commercial purposes, no information is publicly disclosed.
   
-<br> 
  
 ### *Packages*
   link: https://pypi.org/user/archi-park/
@@ -30,12 +30,9 @@ I have experience in working on a variety of projects, including analyzing and m
   |Doc Filter|The Python package docfilter is used to detect and remove inappropriate information from text. <br> [[PyPI]](https://pypi.org/project/docfilter/) [[Github]](https://github.com/DSDanielPark/docfilter) [Tutorial]  <br> `pip install docfilter` |
   |KMI 2122 Dataset|This dataset includes some macroeconomic indicators for South Korea in 2021-2022.  <br> [[PyPI]](https://pypi.org/project/kmi2122/) [[Github]](https://github.com/DSDanielPark/kmi2122-dataset) [[Tutorial]](https://github.com/DSDanielPark/kmi2122-dataset/blob/main/doc/tutorial.ipynb) <br> `pip install kmi2122`|
  
-<br> 
- 
 ### *Huggingface*
   link: https://huggingface.co/danielpark
   
-<br>
   
 ### *DockerHub*
   link: https://hub.docker.com/u/parkminwoo91
