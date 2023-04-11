@@ -32,5 +32,5 @@ I have experience in working on a variety of projects, including analyzing and m
   link: https://huggingface.co/danielpark
   
   
-### *DockerHub*
+### *Dockerhub*
   link: https://hub.docker.com/u/parkminwoo91
