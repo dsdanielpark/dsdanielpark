@@ -16,7 +16,8 @@ I have experience in working on a variety of projects, including analyzing and m
   
  
 ### *Packages*
-  link: https://pypi.org/user/archi-park/
+  pypi link: https://pypi.org/user/archi-park/
+  All packages are also available in [`conda-forge`](https://github.com/conda-forge), but the latest version is maintained by pip.
   | Package | Description |
   |:--|:--|
   |Quick Show| Quickly and easily plot frequently used dataframes as input. <br> [[PyPI]](https://pypi.org/project/quickshow/) [[Github]](https://github.com/DSDanielPark/quick-show) [[Tutorial]](https://github.com/DSDanielPark/quick-show/blob/main/tutorial/tutorial.ipynb) <br> `pip install quickshow` |
