@@ -16,7 +16,7 @@ I have experience in working on a variety of projects, including analyzing and m
   
  
 ### *Packages*
-  pypi link: https://pypi.org/user/archi-park/
+  pypi link: https://pypi.org/user/archi-park/ <br>
   All packages are also available in [`conda-forge`](https://github.com/conda-forge), but the latest version is maintained by pip.
   | Package | Description |
   |:--|:--|
