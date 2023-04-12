@@ -12,8 +12,8 @@ I believe that someday, all the knowledge I've acquired will come together at th
   | Korean-news-topic-classification-using-KO-BERT | Model for classifying Korean news articles into eight pre-defined categories using a fine-tuned Korean BERT news article classifier. <br> [[Github]](https://github.com/DSDanielPark/fine-tuned-korean-bert-news-article-classifier) |
   | Multi-objective-recommender | Recommendation system model based on e-commerce log data that utilizes ranking and re-ranking techniques. The model aims to improve the accuracy of product recommendations by incorporating user behavior data such as click-through rates and purchase history. <br> [[GitHub]](https://github.com/DSDanielPark/kaggle2023-multi-objective-recommender)|
   
-have diverse experience in data analysis, modeling, and processing projects, including work with the Korean National Health Insurance Corporation, CT/MRI, real estate price prediction, Hyundai Motor Group, PySpark, Hadoop, and pet metabolite analysis. <br>
-also have experience in business project planning and securing. However, due to commercial confidentiality, no information is publicly disclosed.
+I have diverse experience in data analysis, modeling, and processing projects, including work with the Korean National Health Insurance Corporation, CT/MRI, real estate price prediction, Hyundai Motor Group, PySpark, Hadoop, and pet metabolite analysis. <br>
+I also have experience in business project planning and securing. However, due to commercial confidentiality, no information is publicly disclosed.
   
  
 ### *Packages*
