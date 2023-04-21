@@ -4,6 +4,12 @@ I am training to become a insightful developer and a skillful and quick-witted e
 I believe that someday, all the knowledge I've acquired will come together at the end of the journey.
 
 
+### *Core Projects*
+  
+  | Project | Description |
+  |:--|:--|
+  | ExceptNotifier| The Python package ExceptNotifier enhances the try-except statement, allowing you to receive detailed error messages via email or messenger apps.<br> [[Github]](https://github.com/dsdanielpark/ExceptNotifier) |
+
 ### *Projects*
   
   | Project | Description |
