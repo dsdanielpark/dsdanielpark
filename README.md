@@ -4,7 +4,7 @@ I am training to become a insightful developer and a skillful and quick-witted e
 I believe that someday, all the knowledge I've acquired will come together at the end of the journey.
 
 
-### *Core Projects*
+### *Core Project*
   
   | Project | Description |
   |:--|:--|
