@@ -9,7 +9,7 @@ I believe that someday, all the knowledge I've acquired will come together at th
   | Project | Description |
   |:--|:--|
   | ExceptNotifier <br> [![](https://img.shields.io/badge/pypi-ExceptNotifier-blue)](https://pypi.org/project/exceptnotifier/)| The Python package ExceptNotifier enhances the try-except statement, allowing you to receive detailed error messages via email or messenger apps.<br> [[Github]](https://github.com/dsdanielpark/ExceptNotifier) |
-  | Co-Coder <br> [![](https://img.shields.io/badge/pypi-CoCoder-blue)](https://pypi.org/project/cocoder/)| Instantly find some infomation about traced errors, and suggests sites with bug fixes, examples, and hints. <br> [[Github]](https://github.com/dsdanielpark/Co-Coder) |
+  | Co-Coder <br> [![](https://img.shields.io/badge/pypi-CoCoder-blue)](https://pypi.org/project/cocoder/)| Co-Coder is a Python package that streamlines error debugging from Open AI chat GPT and Google Bard by providing hints, example code, and relevant Stack Overflow links. <br> [[Github]](https://github.com/dsdanielpark/Co-Coder) |
   
 
 ### *Projects*
