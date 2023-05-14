@@ -10,7 +10,7 @@ I believe that someday, all the knowledge I've acquired will come together at th
   |:--|:--|
   | ExceptNotifier <br> [![](https://img.shields.io/badge/pypi-ExceptNotifier-blue)](https://pypi.org/project/exceptnotifier/)| The Python package ExceptNotifier enhances the try-except statement, allowing you to receive detailed error messages via email or messenger apps.<br> [[Github]](https://github.com/dsdanielpark/ExceptNotifier) |
   | Co-Coder <br> [![](https://img.shields.io/badge/pypi-CoCoder-blue)](https://pypi.org/project/cocoder/)| Co-Coder is a Python package that streamlines error debugging from Open AI chat GPT and Google Bard by providing hints, example code, and relevant Stack Overflow links. <br> [[Github]](https://github.com/dsdanielpark/Co-Coder) |
-  
+  | Amazing-Bard-Prompts| This repo includes Google Bard prompt curation to use Bard better.  <br> [[Github]](https://github.com/dsdanielpark/amazing-bard-prompts) |
 
 ### *Projects*
   
@@ -19,7 +19,7 @@ I believe that someday, all the knowledge I've acquired will come together at th
   | GPT-BERT-Medical-QA-Chatbot| Medical domain-focused GPT-2 fine-tuning, optimization, and lightweighting research repository (compared to GPT-4). <br> [[Github]](https://github.com/DSDanielPark/medical-qa-bert-chatgpt) |
   | Korean-news-topic-classification-using-KO-BERT | Model for classifying Korean news articles into eight pre-defined categories using a fine-tuned Korean BERT news article classifier. <br> [[Github]](https://github.com/DSDanielPark/fine-tuned-korean-bert-news-article-classifier) |
   | Multi-objective-recommender | Recommendation system model based on e-commerce log data that utilizes ranking and re-ranking techniques. The model aims to improve the accuracy of product recommendations by incorporating user behavior data such as click-through rates and purchase history. <br> [[GitHub]](https://github.com/DSDanielPark/kaggle2023-multi-objective-recommender)|
-  | Bard API <br> [![](https://img.shields.io/badge/pypi-BardAPI-blue)](https://pypi.org/project/Bard-API/) | The python package that returns response of Google Bard through API. <br> [[GitHub]](https://github.com/DSDanielPark/BARD_API)||
+  | Bard API <br> [![](https://img.shields.io/badge/pypi-BardAPI-blue)](https://pypi.org/project/bardapi/) | The python package that returns response of Google Bard through API. <br> [[GitHub]](https://github.com/DSDanielPark/BARD_API)||
   
 I possess a wide range of experience in data analysis, modeling, and processing across various projects. 
 - Hyundai Motor Group core algorithm development project using image, sound, tabular data, etc.
