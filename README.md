@@ -19,7 +19,7 @@ I believe that someday, all the knowledge I've acquired will come together at th
   | GPT-BERT-Medical-QA-Chatbot| Medical domain-focused GPT-2 fine-tuning, optimization, and lightweighting research repository (compared to GPT-4). <br> [[Github]](https://github.com/DSDanielPark/medical-qa-bert-chatgpt) |
   | Korean-news-topic-classification-using-KO-BERT | Model for classifying Korean news articles into eight pre-defined categories using a fine-tuned Korean BERT news article classifier. <br> [[Github]](https://github.com/DSDanielPark/fine-tuned-korean-bert-news-article-classifier) |
   | Multi-objective-recommender | Recommendation system model based on e-commerce log data that utilizes ranking and re-ranking techniques. The model aims to improve the accuracy of product recommendations by incorporating user behavior data such as click-through rates and purchase history. <br> [[GitHub]](https://github.com/DSDanielPark/kaggle2023-multi-objective-recommender)|
-  | Bard API| The python package that returns response of Google Bard through API. <br> [[GitHub]](https://github.com/DSDanielPark/BARD_API)||
+  | Bard API <br> [![](https://img.shields.io/badge/pypi-BardAPI-blue)](https://pypi.org/project/Bard-API/) | The python package that returns response of Google Bard through API. <br> [[GitHub]](https://github.com/DSDanielPark/BARD_API)||
   
 I possess a wide range of experience in data analysis, modeling, and processing across various projects. 
 - Hyundai Motor Group core algorithm development project using image, sound, tabular data, etc.
