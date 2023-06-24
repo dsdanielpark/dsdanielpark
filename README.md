@@ -3,6 +3,13 @@
 I am training to become a insightful developer and a skillful and quick-witted engineer. <br>
 I believe that someday, all the knowledge I've acquired will come together at the end of the journey.
 
+<p align="left">
+<a href="https://github.com/dsdanielpark">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dsdanielpark&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dsdanielpark&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 ### *Core Project*
   
