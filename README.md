@@ -32,7 +32,8 @@ I possess a wide range of experience in data analysis, modeling, and processing 
 - Hyundai Motor Group core algorithm development project using image, sound, tabular data, etc.
 - Development of efficient processing (pyspark) and processing algorithm of large data (hadoop) of Hyundai Motor Group
 - Main developer of real estate projects of Microsoft Korea and KB Financial Group
-- Five healthcare data analysis and AI modeling projects using data of various modalities such as human metabolites, animal metabolites, Korean National Health Insurance cohort data, and body shape data <br>
+- Five healthcare data analysis and AI modeling projects using data of various modalities such as human metabolites, animal metabolites, Korean National Health Insurance cohort data, and body shape data
+- A segmentation and algorithm development project based on CT and MRI data (Dicom, Nifti file formats) (referencing the EDA-Nif package). <br>
 
 Additionally, I have expertise in planning and securing business projects.
   
