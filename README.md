@@ -1,5 +1,5 @@
 ### *Currently in progress...*
-Large language models are expected to expand into various fields and modalities. However, limited resources pose challenges for individual researchers to undertake projects. I am currently working on a project using the Foundation LLM model to create task-specific models. Additionally, I have a strong interest in studying LLM. I welcome collaborations and resource support from interested individuals. 
+Large language models are expected to expand into various fields and modalities. However, limited resources pose challenges for individual researchers to undertake projects. I am currently working on a project using the Foundation LLM model to create task-specific models. Additionally, I eagerly await connections from individuals interested in collaborative research or offering resource support.
 
 <div align=right>
 
