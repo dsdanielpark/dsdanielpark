@@ -1,4 +1,5 @@
-
+### *Currently in progress...*
+I foresee extensive advancements of large language models across diverse domains and modalities. Yet, given the constraints of individual researchers' limited resources, embarking on projects can be challenging. Consequently, I am currently engaged in a small-scale project using the Foundation LLM model to develop task-specific models. Furthermore, I have a keen interest in further studying LLM. I eagerly await connections from individuals interested in collaborative research or offering resource support. Additionally, I am preparing for enrollment in graduate school.
 <div align=right>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsdanielpark/)](https://www.linkedin.com/in/dsdanielpark/) 
