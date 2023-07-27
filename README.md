@@ -19,6 +19,19 @@ I believe that someday, all the knowledge I've acquired will come together at th
 </a>
 </p>
 
+### LLMs
+ Jindo / Kolani LLM model index
+ - sLLM, Jindo(진도), is a language model preprocessing tool designed to fine-tune and refine various LLM datasets.
+ - KOLANI (Korean LLM based on LLaMA2 Natural Inference Model, 고라니) is a Korean-specialized language model based on LLAMA2. It efficiently refines various benchmark datasets, aligning tokens for optimal performance.
+
+|Model|Jindo|Kolani|Kolani-chat|Backbone|
+|:---:|:---:|:---:|:---:|:---:|
+|7B| [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct) | [Link] |  [Link]  | [Link](https://huggingface.co/llamaste/Llama-2-7b-hf)|
+|13B| [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-13b-instruct) |  [Link]  |  [Link]  | [Link](https://huggingface.co/llamaste/Llama-2-13b-hf)|
+|70B| - |  [Link]  | [Link] | [Link](https://huggingface.co/llamaste/Llama-2-70b-hf)|
+
+
+
 
 ### *Core Project*
   
