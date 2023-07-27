@@ -26,11 +26,11 @@ Jindo and Kolani
 
 LLM model index
 
-|Model|Jindo|Kolani|Kolani-chat|Backbone|
-|:---:|:---:|:---:|:---:|:---:|
-|7B| [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct) | [Link] |  [Link]  | [Link](https://huggingface.co/llamaste/Llama-2-7b-hf)|
-|13B| [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-13b-instruct) |  [Link]  |  [Link]  | [Link](https://huggingface.co/llamaste/Llama-2-13b-hf)|
-|70B| - |  [Link]  | [Link] | [Link](https://huggingface.co/llamaste/Llama-2-70b-hf)|
+|Model|Jindo|Kolani|Kolani-chat|Backbone|Dataset|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|7B| [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct) | [Link] |  [Link]  | [Link](https://huggingface.co/llamaste/Llama-2-7b-hf)|[Link]  |
+|13B| [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-13b-instruct) |  [Link]  |  [Link]  | [Link](https://huggingface.co/llamaste/Llama-2-13b-hf)|[Link]  |
+|70B| - |  [Link]  | [Link] | [Link](https://huggingface.co/llamaste/Llama-2-70b-hf)|[Link]  |
 
 
 
