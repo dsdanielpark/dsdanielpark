@@ -25,21 +25,26 @@ The code for LLM projects will be kept private. Due to ethical concerns, the mod
  - sLLM, Jindo(진도), is a language model preprocessing tool designed to fine-tune and refine various LLM datasets.
  - KOLANI(Korean LLM based on LLaMA2 Natural Inference Model, 고라니) is a Korean-specialized language model based on LLAMA2. It efficiently refines various benchmark datasets, aligning tokens for optimal performance. KOLANI-chat is model finetuned with [RLHF](https://huggingface.co/blog/rlhf).
 
-#### LLM model index
+#### LLM Model Variation
 
-|Model|Jindo|KOLANI|KOLANI-chat|Backbone|Dataset|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|7B| [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct) | [Link] |  [Link]  | [Link](https://huggingface.co/llamaste/Llama-2-7b-hf)|[Link]  |
-|13B| [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-13b-instruct) |  [Link]  |  [Link]  | [Link](https://huggingface.co/llamaste/Llama-2-13b-hf)|[Link]  |
-|70B| - |  [Link]  | [Link] | [Link](https://huggingface.co/llamaste/Llama-2-70b-hf)|[Link]  |
+<div style="overflow-x: auto;">
+  
+| Model | Jindo | Kolani | Kolani-chat |
+|:-----:|:-----:|:------:|:----------:|
+|   7B  | [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct) | [Link] | [Link] |
+|  13B  | [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-13b-instruct) | [Link] | [Link] |
+|  70B  |   -   | [Link] | [Link] |
 
-#### Quantinized weights
+</div>
+
+
+#### Quantinized Weights
 | Project Title                      | Backbone | Description                                                                                                                      |
 |------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------|
-| ko-llama-2-jindo-7b-instruct       | LLaMA2-7b  | Korean LLM model efficiently fine-tuned with QLoRA (Efficient Finetuning of Quantized LLMs)    |
-| ko-llama-2-jindo-13b-instruct      | LLaMA2  | Korean LLM model efficiently fine-tuned with QLoRA                                        |
+| [ko-llama-2-jindo-7b-instruct](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct)       | [LLaMA2-7b](https://huggingface.co/llamaste/Llama-2-7b-hf)  | Korean LLM model efficiently fine-tuned with QLoRA (Efficient Finetuning of Quantized LLMs)    |
+| [ko-llama-2-jindo-13b-instruct](https://huggingface.co/danielpark/ko-llama-2-jindo-13b-instruct)      | [LLaMA2-13b](https://huggingface.co/llamaste/Llama-2-13b-hf)  | Korean LLM model efficiently fine-tuned with QLoRA                                        |
 | ko-llama-2-jindo-7b-instruct-ggml   | LLaMA2  | Model weights transformed through GGML(Generic Graph Machine Learning) to efficiently perform inference using GPU and CPU.      |
-| ko-llama-2-jindo-7b-instruct-4bit-128g-gptq | LLaMA2  | Model weights using LLaMA2 as the backbone, one-shot weight quantized with GPTQ(Accurate Post-Training Quantization for Generative Pre-trained Transformers) to increase inference speed. |
+| [ko-llama-2-jindo-7b-instruct-4bit-128g-gptq](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct-4bit-128g-gptq) | LLaMA2  | Model weights using LLaMA2 as the backbone, one-shot weight quantized with GPTQ(Accurate Post-Training Quantization for Generative Pre-trained Transformers) to increase inference speed. |
 
 
 
