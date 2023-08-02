@@ -24,7 +24,7 @@
 <br><br>
 
 ## Portfolio Contents
-- [Large Language Model](#large-language-model)
+- [*Large Language Model*](#large-language-model)
 - [*Projects*](#projects)
 - [*Packages*](#packages)
 - [*Huggingface*](#huggingface)
@@ -34,11 +34,8 @@
 
 <br><br>
 
-### Large Language Model
-
+### *Large Language Model*
 The code for LLM projects will be kept private. Due to ethical concerns, the model's performance will be made public as it is confirmed after development.
-
-#### Jindo and Kolani
 - **sLLM, Jindo(진도)**: A language model preprocessing tool designed to fine-tune and refine various LLM datasets.
 - **KOLANI(Korean LLM based on LLaMA2 Natural Inference Model, 고라니)**: A Korean-specialized language model based on LLAMA2. It efficiently refines various benchmark datasets, aligning tokens for optimal performance. KOLANI-chat is a model finetuned with [RLHF](https://huggingface.co/blog/rlhf).
 
