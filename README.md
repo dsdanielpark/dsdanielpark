@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsdanielpark/)](https://www.linkedin.com/in/dsdanielpark/) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsdanielpark&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ProfileViews&edge_flat=false)](https://hits.seeyoufarm.com)
-
+</div>
 
 - I am training to become a insightful developer and a skillful and quick-witted engineer. 
 - Possessing profound expertise that encompasses a myriad of domains, including but not limited to bioinformatics, computer vision, and natural language processing, I have diligently addressed multifaceted challenges across diverse industrial landscapes.
@@ -23,13 +23,13 @@
 
 <br><br>
 
-- [*Hello, I'm Daniel Park*](#hello-im-daniel-park)
+## Portfolio Contents
 - [Large Language Model](#large-language-model)
-  - [Jindo and Kolani](#jindo-and-kolani)
 - [*Projects*](#projects)
 - [*Packages*](#packages)
 - [*Huggingface*](#huggingface)
 - [*Dockerhub*](#dockerhub)
+- [*Work Experience*](#work-experience)
 
 
 <br><br>
@@ -108,6 +108,8 @@ The code for LLM projects will be kept private. Due to ethical concerns, the mod
 ### *Dockerhub*
   link: https://hub.docker.com/u/parkminwoo91
 
+
+### *Work Experience*
 
 <details>
 <summary>Work Experience</summary>
