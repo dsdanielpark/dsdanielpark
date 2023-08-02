@@ -7,7 +7,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsdanielpark/)](https://www.linkedin.com/in/dsdanielpark/) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdsdanielpark&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=ProfileViews&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
 
 - I am training to become a insightful developer and a skillful and quick-witted engineer. 
 - Possessing profound expertise that encompasses a myriad of domains, including but not limited to bioinformatics, computer vision, and natural language processing, I have diligently addressed multifaceted challenges across diverse industrial landscapes.
@@ -21,6 +20,16 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dsdanielpark&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
+
+<br><br>
+
+</div>- [*Hello, I'm Daniel Park*](#hello-im-daniel-park)
+- [Large Language Model](#large-language-model)
+- [*Projects*](#projects)
+- [*Packages*](#packages)
+- [*Huggingface*](#huggingface)
+- [*Dockerhub*](#dockerhub)
+
 
 <br><br>
 
