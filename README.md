@@ -23,8 +23,9 @@
 
 <br><br>
 
-</div>- [*Hello, I'm Daniel Park*](#hello-im-daniel-park)
+- [*Hello, I'm Daniel Park*](#hello-im-daniel-park)
 - [Large Language Model](#large-language-model)
+  - [Jindo and Kolani](#jindo-and-kolani)
 - [*Projects*](#projects)
 - [*Packages*](#packages)
 - [*Huggingface*](#huggingface)
