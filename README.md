@@ -34,6 +34,8 @@
 
 <br><br>
 
+***
+
 ### *Large Language Model*
 The code for LLM projects will be kept private. Due to ethical concerns, the model's performance will be made public as it is confirmed after development.
 - **sLLM, Jindo(진도)**: A language model preprocessing tool designed to fine-tune and refine various LLM datasets.
@@ -52,6 +54,8 @@ The code for LLM projects will be kept private. Due to ethical concerns, the mod
 </div>
 </details>
 
+***
+
 ### *Projects*
 
 | Project                               | Description                                              | Repo                                                           |
@@ -64,6 +68,7 @@ The code for LLM projects will be kept private. Due to ethical concerns, the mod
 | Korean news topic classification using KO BERT | Classifies Korean news articles into eight categories using fine-tuned Korean BERT. | [GitHub](https://github.com/DSDanielPark/fine-tuned-korean-bert-news-article-classifier)|
 | Multi-objective recommender           | Recommendation system leveraging user behavior data for improved accuracy. | [GitHub](https://github.com/DSDanielPark/kaggle2023-multi-objective-recommender)|
 
+***
  
 ### *Packages*
   pypi link: https://pypi.org/user/archi-park/ <br>
@@ -88,7 +93,7 @@ The code for LLM projects will be kept private. Due to ethical concerns, the mod
 | edanif        | EDA-NIf creates a dataframe containing meta information of NIfTi files and provides several useful features. | [GitHub](https://github.com/DSDanielPark/edanif)           |
 
 
-
+***
 
 ### *Huggingface*
   link: https://huggingface.co/danielpark
@@ -100,11 +105,12 @@ The code for LLM projects will be kept private. Due to ethical concerns, the mod
 | [ko-llama-2-jindo-7b-instruct-4bit-128g-gptq](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct-4bit-128g-gptq) | LLaMA2  | Model weights using LLaMA2 as the backbone, one-shot weight quantized with GPTQ(Accurate Post-Training Quantization for Generative Pre-trained Transformers) to increase inference speed. |
 
 
-  
+***
   
 ### *Dockerhub*
   link: https://hub.docker.com/u/parkminwoo91
 
+***
 
 ### *Work Experience*
 
