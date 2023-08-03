@@ -101,8 +101,8 @@ The code for LLM projects will be kept private. Due to ethical concerns, the mod
 |------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------|
 | [ko-llama-2-jindo-7b-instruct](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct)       | [LLaMA2-7b](https://huggingface.co/llamaste/Llama-2-7b-hf)  | Korean LLM model efficiently fine-tuned with QLoRA (Efficient Finetuning of Quantized LLMs)    |
 | [ko-llama-2-jindo-13b-instruct](https://huggingface.co/danielpark/ko-llama-2-jindo-13b-instruct)      | [LLaMA2-13b](https://huggingface.co/llamaste/Llama-2-13b-hf)  | Korean LLM model efficiently fine-tuned with QLoRA                                        |
-| ko-llama-2-jindo-7b-instruct-ggml   | LLaMA2  | Model weights transformed through GGML(Generic Graph Machine Learning) to efficiently perform inference using GPU and CPU.      |
-| [ko-llama-2-jindo-7b-instruct-4bit-128g-gptq](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct-4bit-128g-gptq) | LLaMA2  | Model weights using LLaMA2 as the backbone, one-shot weight quantized with GPTQ(Accurate Post-Training Quantization for Generative Pre-trained Transformers) to increase inference speed. |
+| ko-llama-2-jindo-7b-instruct-ggml   | [LLaMA2-7b](https://huggingface.co/llamaste/Llama-2-7b-hf)  | Model weights transformed through GGML(Generic Graph Machine Learning) to efficiently perform inference using GPU and CPU.      |
+| [ko-llama-2-jindo-7b-instruct-4bit-128g-gptq](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct-4bit-128g-gptq) | [LLaMA2-7b](https://huggingface.co/llamaste/Llama-2-7b-hf)  | Model weights using LLaMA2 as the backbone, one-shot weight quantized with GPTQ(Accurate Post-Training Quantization for Generative Pre-trained Transformers) to increase inference speed. |
 
 
 ***
