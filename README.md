@@ -63,7 +63,7 @@ The code for LLM projects will be kept private. Due to ethical concerns, the mod
 | Bard API                              | Interfaces with Google Bard API to retrieve responses.  | [GitHub](https://github.com/DSDanielPark/BARD_API)             |
 | Amazing Bard Prompts                  | Includes curated Google Bard prompts for enhanced utilization. | [GitHub](https://github.com/dsdanielpark/amazing-bard-prompts) |
 | ExceptNotifier                        | Enriches try-except with comprehensive error messages.  | [GitHub](https://github.com/dsdanielpark/ExceptNotifier)       |
-| Co Coder                              | Streamlines error debugging for GPT and Google Bard.   | [GitHub](https://github.com/dsdanielpark/Co-Coder)            |
+| Co Coder                              | Python package that treamlines error debugging from Chat GPT and Google Bard. | [GitHub](https://github.com/dsdanielpark/Co-Coder)            |
 | GPT BERT Medical QA Chatbot           | Research repository focused on GPT 2 fine-tuning for medical domain. | [GitHub](https://github.com/DSDanielPark/medical-qa-bert-chatgpt)|
 | Korean news topic classification using KO BERT | Classifies Korean news articles into eight categories using fine-tuned Korean BERT. | [GitHub](https://github.com/DSDanielPark/fine-tuned-korean-bert-news-article-classifier)|
 | Multi-objective recommender           | Recommendation system leveraging user behavior data for improved accuracy. | [GitHub](https://github.com/DSDanielPark/kaggle2023-multi-objective-recommender)|
@@ -81,7 +81,7 @@ The code for LLM projects will be kept private. Due to ethical concerns, the mod
 | translang     | Translation Service API Module.                              | [GitHub](https://github.com/DSDanielPark/translang)          |
 | catchexception| With Python's try-except to receive notifications about Errors or Successes in your code through messenger app or email. | [GitHub](https://github.com/DSDanielPark/catchexception)    |
 | googlebardapi | The python package that returns Response of Google Bard through API. | [GitHub](https://github.com/DSDanielPark/googlebardapi)     |
-| cocoder       |                                                       | [GitHub](https://github.com/DSDanielPark/cocoder)           |
+| cocoder       | Python package that treamlines error debugging from Chat GPT and Google Bard. | [GitHub](https://github.com/DSDanielPark/cocoder)           |
 | exceptnotifier| With Python's try-except to receive notifications about Errors or Successes in your code through messenger app or email. | [GitHub](https://github.com/DSDanielPark/exceptnotifier)    |
 | utilfunction  | The Python package utilfunction wraps and distributes useful functions in an easy-to-use way. | [GitHub](https://github.com/DSDanielPark/utilfunction)     |
 | quickshow     | Quick-Show provides simply but powerful insight plots       | [GitHub](https://github.com/DSDanielPark/quickshow)         |
