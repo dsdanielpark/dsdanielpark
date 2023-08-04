@@ -80,7 +80,7 @@ The code for LLM projects will be kept private. Due to ethical concerns, the mod
 | arxiv2text    | Converting PDF files to text, mainly with a focus on arXiv papers. | [GitHub](https://github.com/DSDanielPark/arxiv2text)         |
 | transllm      | LLMtranslator translates and generates text in multiple languages. | [GitHub](https://github.com/DSDanielPark/transllm)           |
 | translang     | Translation Service API Module.                              | [GitHub](https://github.com/DSDanielPark/translang)          |
-| catchexception| With Python's try-except to receive notifications about Errors or Successes in your code through messenger app or email. | [GitHub](https://github.com/DSDanielPark/catchexception)    |
+| catchexception| Nightly version of ExceptNotifier | [GitHub](https://github.com/DSDanielPark/catchexception)    |
 | googlebardapi | The python package that returns Response of Google Bard through API. | [GitHub](https://github.com/DSDanielPark/googlebardapi)     |
 | cocoder       | Python package that treamlines error debugging from Chat GPT and Google Bard. | [GitHub](https://github.com/DSDanielPark/cocoder)           |
 | exceptnotifier| With Python's try-except to receive notifications about Errors or Successes in your code through messenger app or email. | [GitHub](https://github.com/DSDanielPark/exceptnotifier)    |
