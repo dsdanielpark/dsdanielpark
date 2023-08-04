@@ -13,6 +13,7 @@
 - Presently, my undivided attention is devoted to driving progress in the realm of Korean natural language processing and the cutting-edge LLM (Language Model) field.<br>
 - I believe that someday, all the knowledge I've acquired will come together at the end of the journey.
 
+<br>
 
 <p align="center">
 <a href="https://github.com/dsdanielpark">
@@ -21,7 +22,7 @@
 </a>
 </p>
 
-<br><br>
+<br>
 
 ## Portfolio Contents
 - [*Large Language Model*](#large-language-model)
@@ -32,7 +33,7 @@
 - [*Work Experience*](#work-experience)
 
 
-<br><br>
+<br>
 
 ***
 
