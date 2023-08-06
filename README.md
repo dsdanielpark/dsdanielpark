@@ -26,9 +26,9 @@
 
 ## Portfolio Contents
 - [*Large Language Model*](#large-language-model)
+- [*Huggingface*](#huggingface)
 - [*Projects*](#projects)
 - [*Packages*](#packages)
-- [*Huggingface*](#huggingface)
 - [*Dockerhub*](#dockerhub)
 - [*Work Experience*](#work-experience)
 
