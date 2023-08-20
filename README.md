@@ -91,7 +91,7 @@
 |:--------------|:-------------------------------------------------------------|:---------------------------------------------------------------|
 | bardapi       | The python package that returns Response of Google Bard through API. | [GitHub](https://github.com/DSDanielPark/bardapi)            |
 | arxiv2text    | Converting PDF files to text, mainly with a focus on arXiv papers. | [GitHub](https://github.com/DSDanielPark/arxiv2text)         |
-| transllm      | LLMtranslator translates and generates text in multiple languages. | [GitHub](https://github.com/DSDanielPark/transllm)           |
+| transllm      | LLMtranslator translates and generates text in multiple languages. | [GitHub](https://github.com/DSDanielPark/hf-transllm)           |
 | translang     | Translation Service API Module.                              | [GitHub](https://github.com/DSDanielPark/translang)          |
 | catchexception| Nightly version of ExceptNotifier | [GitHub](https://github.com/DSDanielPark/catchexception)    |
 | googlebardapi | The python package that returns Response of Google Bard through API. | [GitHub](https://github.com/DSDanielPark/googlebardapi)     |
