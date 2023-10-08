@@ -11,7 +11,7 @@
 
 
 
-### I am looking for a company that can support multi-A100 GPUs (a minimum of 4 or more). If your company can provide resources that I can handle through SSH tunneling or the cloud, please contact me at parkmiwnoo1991@gmail.com. Your company will have access to records of my dataset and training code. Thank you.
+### I am seeking a company that can provide support for a minimum of 4 or more A100 GPUs. I am interested in companies located outside of South Korea that can offer resources I can directly and exclusively handle for a specific period through SSH tunneling or the cloud. If your company meets these criteria, kindly contact me at parkmiwnoo1991@gmail.com. Your company will have access to records of my dataset and training code. Thank you for your consideration
 
 
 - I am training to become a developer with insight and an engineer with skill and wit.
