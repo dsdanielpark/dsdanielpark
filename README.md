@@ -9,6 +9,11 @@
 <a href="https://www.buymeacoffee.com/parkminwoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="20px"></a>
 </div>
 
+
+
+### I am looking for a company that can support multi-A100 GPUs (a minimum of 4 or more). If your company can provide resources that I can handle through SSH tunneling or the cloud, please contact me at parkmiwnoo1991@gmail.com. Your company will have access to records of my dataset and training code. Thank you.
+
+
 - I am training to become a developer with insight and an engineer with skill and wit.
 - With deep expertise in various domains, such as largen language model, bioinformatics, computer vision, and natural language processing, I have tackled complex challenges in different industries.
 - Currently, I am focusing on advancing the field of Korean natural language processing and the state-of-the-art LLM (Language Model) technology.
@@ -22,6 +27,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dsdanielpark&layout=compact&langs_count=8&theme=nord"/>
 </a>
 </p>
+
+
 
 <br>
 
