@@ -2,7 +2,7 @@
 ### I am seeking a company that can provide support for a minimum of 4 or more A100 GPUs. 
 I'm interested in companies based outside of South Korea that can provide resources for me to manage directly and exclusively, either through SSH tunneling or cloud services, for a specific duration. If your company fits these criteria, please contact me at my email address: parkminwoo1991@gmail.com. Your company will have partial access to my dataset and training code. However, I will retain full decision-making authority over the project, and we can discuss any further agreements in the future. Thank you for your consideration.
 
-##### Please note that companies with Korean employees, offices in South Korea, or a specific focus on AI-related businesses in South Korea, as well as those engaged in hiring within South Korea, are not eligible. These exclusions will be clearly outlined and confirmed through the drafting and signing of a legally binding contract. Furthermore, we intend to establish internationally recognized legal agreements.
+##### Please note that companies with Korean employees, offices in South Korea, or a specific focus on AI-related businesses in South Korea, as well as those engaged in hiring within South Korea, are not eligible. These exclusions will be clearly outlined and confirmed through the drafting and signing of a legally binding contract. Furthermore, I intend to establish internationally recognized legal agreements.
 
 
 <br>
