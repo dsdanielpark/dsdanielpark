@@ -52,22 +52,9 @@ I'm interested in companies based outside of South Korea that can provide resour
 
 ### *Large Language Model*
 - The code for LLM projects will remain private. Due to ethical issues, the model's performance will be disclosed once it is verified after development.
-- **sLLM, Jindo(진도)**: it is used for conducting various experiments across multiple domains of LLM and for verification purposes. This is an experimental version of LLM.
-- **KOLANI(Korean LLM based on LLaMA2 Natural Inference Model, 고라니)**: A Korean-specific language model based on LLAMA2. It efficiently improves various benchmark datasets, aligning tokens for optimal performance. KOLANI-chat is a model fine-tuned with [RLHF](https://huggingface.co/blog/rlhf).
-
-<details>
-<summary>LLM Model Variation</summary>
-<div style="overflow-x: auto;">
-  
-| Model   | Jindo                                          | Kolani | Kolani-chat |
-|:-------:|:----------------------------------------------:|:------:|:----------:|
-| 7B      | [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct) | [Link] | [Link]     |
-| 13B     | [Link](https://huggingface.co/danielpark/ko-llama-2-jindo-13b-instruct) | [Link] | [Link]     |
-| 70B     | -                                              | [Link] | [Link]     |
-
-</div>
-</details>
-
+- **sLLM, Jindo(진도)**: Jindo is a relatively small sLLM that includes various experiments. It aims to develop multi-modal and domain-specific highly personalized models, but it is not recommended for general use as it is primarily used for experiments.
+- **GORANI(고라니):** The project is actively underway. GORANI is being developed as an English language model for comparison with other LLMs and to assess its technical capabilities. It is planned to be distributed under a research-purpose license.
+- **KOLANI(코라니):** KORANI is a Korean-specific LLM developed based on Jindo and GORANI's accumulated technology. It is based on the 13B Llama2 chat, transformed into an LFM (Large Foundation Model), with the goal of making it available under a commercial license.
 ***
 
 
