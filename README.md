@@ -44,9 +44,9 @@
 
 ### *Large Language Model*
 - The code for LLM projects will remain private. Due to ethical issues, the model's performance will be disclosed once it is verified after development.
-- **sLLM, Jindo(진도)**: Jindo is a relatively small sLLM that includes various experiments. It aims to develop multi-modal and domain-specific highly personalized models, but it is not recommended for general use as it is primarily used for experiments.
-- **GORANI(고라니):** The project is actively underway. GORANI is being developed as an English language model for comparison with other LLMs and to assess its technical capabilities. It is planned to be distributed under a research-purpose license.
-- **KORANI(코라니):** KORANI is a Korean-specific LLM developed based on Jindo and GORANI's accumulated technology. It is based on the 13B Llama2 chat, transformed into an LFM (Large Foundation Model), with the goal of making it available under a commercial license.
+- **sLLM, Jindo**: Jindo is a relatively small sLLM that includes various experiments. It aims to develop multi-modal and domain-specific highly personalized models, but it is not recommended for general use as it is primarily used for experiments.
+- **GORANI:** The project is actively underway. GORANI is being developed as an English language model for comparison with other LLMs and to assess its technical capabilities. It is planned to be distributed under a research-purpose license.
+- **KORANI:** KORANI is a Korean-specific LLM developed based on Jindo and GORANI's accumulated technology. It is based on the 13B Llama2 chat, transformed into an LFM (Large Foundation Model), with the goal of making it available under a commercial license.
 ***
 
 
