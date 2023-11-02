@@ -8,9 +8,6 @@
 <!--<a href="https://www.buymeacoffee.com/parkminwoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="20px"></a>-->
 </div>
 
-
-
-
 - I am training to become a developer with insight and an engineer with skill and wit.
 - With deep expertise in various domains, such as largen language model, bioinformatics, computer vision, and natural language processing, I have tackled complex challenges in different industries.
 - Currently, I am focusing on advancing the field of Korean natural language processing and the state-of-the-art LLM (Language Model) technology.
