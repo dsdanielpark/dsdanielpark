@@ -27,7 +27,7 @@
 <br>
 
 ## Portfolio Contents
-2023-11-07 대다수의 레포지토리와 허깅페이스 모델을 비공개로 전환합니다. 
+On 2023-11-07, I have decided to make the majority of open-source repositories and Hugging Face models **private**.
 - [*Large Language Model*](#large-language-model)
 - [*Huggingface*](#huggingface)
 - [*Projects*](#projects)
