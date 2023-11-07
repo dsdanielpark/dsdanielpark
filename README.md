@@ -27,12 +27,14 @@
 <br>
 
 ## Portfolio Contents
+2023-11-07 대다수의 레포지토리와 허깅페이스 모델을 비공개로 전환합니다. 
 - [*Large Language Model*](#large-language-model)
 - [*Huggingface*](#huggingface)
 - [*Projects*](#projects)
 - [*Packages*](#packages)
 - [*Dockerhub*](#dockerhub)
 - [*Work Experience*](#work-experience)
+
 
 
 <br>
