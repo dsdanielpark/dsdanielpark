@@ -27,7 +27,7 @@
 <br>
 
 ## Portfolio Contents
-On 2023-11-07, I have decided to make the majority of open-source repositories and Hugging Face models **private**.
+_On 2023-11-07, I have decided to make the majority of open-source repositories and Hugging Face models **private**._
 - [*Large Language Model*](#large-language-model)
 - [*Huggingface*](#huggingface)
 - [*Projects*](#projects)
