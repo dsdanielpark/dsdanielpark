@@ -1,5 +1,5 @@
 
-### *Hello, I'm Daniel Park*
+### *Hello, I'm MinWoo(Daniel) Park*
 
 <div align=right>
 
