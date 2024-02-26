@@ -112,12 +112,38 @@ _On 2023-11-07, I have decided to make the majority of open-source repositories 
 <summary>Work Experience</summary>
 <div style="overflow-x: auto;">
 
-
-| Year      | Category             | Projects                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|:----------|:---------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2023      | Large Language Model (LLM), AI for Life | - Bard API: An unofficial Python package to interface with Google Bard and retrieve responses. <br> - all-about-llm: A documentation of papers and projects related to large language models. <br> - ko-llama2-jindo: A project focused on creating Korean language models, constructing the entire pipeline, and lightweighting. <br> - KOLANI: A multi-purpose Korean LLM development project based on LLaMA2. <br> - hf-transllm: The LLMtranslator project for multilingual translation and text generation. <br> - korean-open-llm-datasets-chain: A project to collect/process Korean LLM datasets. <br> - open-llm-datasets: A repository summarizing datasets and papers used in Open LLM. <br> - open-llm-leaderboard-report: Periodically visualizing the performance of Open LLMs based on four metrics. <br> - medical-qa-bert-chatgpt: Fine-tuned GPT-2 for question-answering in the medical domain. <br> - ExceptNotifier: Improves try-except statements to allow users to receive detailed error messages via email or messenger apps, supporting features like REST API, webhooks, and code alarms. <br> - translang: A collection of translation service modules providing APIs for language translation. <br> - Co-Coder: A Python package simplifying debugging with OpenAI Chat GPT and Google Bard, providing hints, example codes, and related Stack Overflow links. <br> - Recommender System: Multi-objective-recommender: A project building a multi-objective recommendation system based on real e-commerce sessions. |
-| 2017-2022 | Computer Vision, Natural Language Process, Time Serise, Tabular, Analysis, Optimization, AI for Life       | - Development of algorithms for extracting key factors from engineering drawings (P.O: Hyundai Motor Group, 2022) <br> - Algorithm and pipeline development for visualizing and analyzing noise sources, determining their locations, and clustering them (P.O: Hyundai Motor Group, 2022) <br> - Large-scale data processing, including Hadoop data refinement and data handling via PySpark (P.O: Hyundai Motor Group, 2022) <br> - Detection of abnormalities in power lines using big data from Korea Electric Power Corporation (KEPCO, 2021) <br> - Development of body classification and prediction models based on time-series big data (2022) <br> - Prediction and factor analysis of the real estate market based on large-scale data (MicroSoft Korea, KB Financial Group, 2021)  <br> - Development of automatic brain structure segmentation and tumor area segmentation models using MRI and CT images and skull extraction algorithms (2022) <br> - Body classification and 3D body shape change prediction model based on time-series data collected from Koreans (2022) <br> - Algorithm and deep learning model development for extracting drawing factors from engineering drawings (2022) <br> - Algorithm and pipeline automation for visualizing and analyzing noise sources (2022) <br> - Natural Language Processing: Planning for the development of a platform to discover and characterize food ingredients (2021) <br> - Software development for automating extraction and analysis of mechanisms, interactions, and molecular structures of proteins from Alzheimer's disease papers (2021) <br> - Disease and physical vitality prediction based on animal metabolite (fur/blood) datasets (2021) <br> - Prediction of anomalies, health index, and analysis of intestinal microbes using National Health Insurance (NHI) data (2021) <br> - Analysis of inflow/purchase trends, price trends, and logistics predictions (2017-2018) <br> - Analysis of National Health Insurance (NHI) data and development of algorithms for biological age calculation and disease prevalence prediction (2021) <br> -  Planning for the development of algorithms for heat efficiency and energy optimization in Siheung Banwol Industrial Complex (2021) <br> - Automation of preprocessing pipeline for medical term database (SNOMED CT) (2021) <br> - Data cleansing for Hadoop and data processing optimization through PySpark (2022) <br> - Development of a Cohort-Based Big Data Analysis System for the National Health Insurance Corporation of Korea, Risk Assessment of Major Adult Diseases (Including Cancer and Diabetes), and the Development of a Biological Age Calculation Algorithm (2020) <br> - Analysis of Inflows/Product Selection/Trend Analysis/Price Trends/Logistics Prediction (2017) <br> - Development of a logistics demand forecasting model using data analysis and machine learning techniques (2017) <br> - AI-Powered Logistics and Retail Solo Entrepreneurship (Established in 2017-2018 with an annual income of USD 2 million) |
-
+- Bard API: An unofficial Python package to interface with Google Bard. (LLM, 2023)
+- All-about-llm: Documentation of papers and projects on large language models. (LLM, 2023)
+- Ko-llama2-jindo: Korean language model development and lightweighting. (LLM, 2023)
+- KOLANI: Multi-purpose Korean LLM project based on LLaMA2. (LLM, 2023)
+- Hf-transllm: LLMtranslator for multilingual translation and text generation. (LLM, 2023)
+- Korean-open-llm-datasets-chain: Collection and processing of Korean LLM datasets. (LLM, 2023)
+- Open-llm-datasets: Summary of datasets and papers for Open LLM. (LLM, 2023)
+- Open-llm-leaderboard-report: Visualizing Open LLM performance metrics. (LLM, 2023)
+- Medical-qa-bert-chatgpt: GPT-2 fine-tuned for medical domain Q&A. (AI for Life, 2023)
+- ExceptNotifier: Detailed error notifications via email or messenger. (Python Package, 2023)
+- Translang: Translation service modules with language translation APIs. ((Python Package, 2023)
+- Co-Coder: Debugging aid with OpenAI Chat GPT and Google Bard in ipython. (Python Package, 2023)
+- Multi-objective-recommender: E-commerce based recommendation system. (Recommendation System, 2023)
+- Algorithms for key factor extraction from engineering drawings. (Hyundai Motor Group / Vision, 2022)
+- Noise source visualization, location determination, and clustering. (Hyundai Motor Group / Vision, 2022)
+- Data cleansing and PySpark optimization. (Hyundai Motor Group / Big Data, Analysis, 2022)
+- Noise source analysis automation. (Hyundai Motor Group / Vision, Predcition, Time Series, 2022)
+- 3D body shape prediction from time-series data. (Time Series, 2022)
+- Body classification and prediction models from time-series data. (Vision, Time Series, 2022)
+- Power line abnormality detection using KEPCO big data. (Vision, 2021)
+- Real estate market prediction and analysis. (Predcition, Time Series, 2021)
+- Food ingredient discovery platform development. (NLP, Big Data, 2021)
+- Protein analysis software from Alzheimer's disease papers. (NLP, 2021)
+- Biological age and disease prediction algorithms from Korea NHISS data. (AI for life, Analysis, 2021)
+- Heat efficiency and energy optimization algorithm development. (Prediction, Time Serise, Optimization, 2021)
+- Medical term database preprocessing automation. (AI for Life, 2021)
+- Animal metabolite-based disease and vitality prediction. (Predcition, Analysis, 2021)
+- Health index and intestinal microbe analysis using NHI data. (Analysis, Analysis, 2021)
+- Cohort-based big data analysis system for major diseases. (AI for life, Analysis, 2020)
+- Logistics and price trend analysis. (Predcition, Analysis, 2017-2018)
+- Logistics demand forecasting model development. (Time Serise, Analysis, 2017)
+- AI-Powered Logistics and Retail Solo Entrepreneurship. (Time Serise, Analysis, 2017-2018)
 
 </div>
 </details>
