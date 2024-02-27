@@ -8,7 +8,8 @@
 <!--<a href="https://www.buymeacoffee.com/parkminwoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="20px"></a>-->
 </div>
 
-- I am a passionate developer who solves a variety of domain challenges using Machine Learning and Deep Learning technologies. With experience and knowledge in LLM, Natural Language Processing, Computer Vision, and the medical and healthcare sectors, I have tied together solutions for problems across multiple industries.
+- I am a passionate developer who solves a variety of domain challenges using Machine Learning and Deep Learning technologies.
+- With experience and knowledge in LLM, Natural Language Processing, Computer Vision, and the medical and healthcare sectors, I have tied together solutions for problems across multiple industries.
 - Currently, I am focusing on advancing the field ofthe state-of-the-art LLM (Language Model) technology.
 - I believe that all the knowledge I have gained will converge at the end of my journey.
 - *Research Interests:* Large Language Models, Optimization Techniques, Vector Databases
