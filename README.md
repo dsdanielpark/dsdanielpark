@@ -131,7 +131,7 @@ _On 2023-11-07, I have decided to make the majority of repositories and Hugging 
 - Noise source analysis automation. (**Hyundai Motor Group** / Vision, Predcition, Time Series, 2022)
 - 3D body shape prediction from time-series data. (Time Series, 2022)
 - Body classification and prediction models from time-series data. (Vision, Time Series, 2022)
-- - Real estate market prediction and analysis. (**Microsoft Korea, KB Financial Group** / Analysis, Time Series, 2021)
+- Real estate market prediction and analysis. (**Microsoft Korea, KB Financial Group** / Analysis, Time Series, 2021)
 - Power line abnormality detection using KEPCO big data. (Vision, 2021)
 - Food ingredient discovery platform development. (NLP, Big Data, 2021)
 - Protein analysis software from Alzheimer's disease papers. (Big Data, NLP, 2021)
