@@ -27,7 +27,7 @@
 <br>
 
 ## Portfolio Contents
-_On 2023-11-07, I have decided to make the majority of open-source repositories and Hugging Face models **private**._
+_On 2023-11-07, I have decided to make the majority of repositories and Hugging Face models **private**._
 - [*Large Language Model*](#large-language-model)
 - [*Huggingface*](#huggingface)
 - [*Projects*](#projects)
@@ -125,21 +125,21 @@ _On 2023-11-07, I have decided to make the majority of open-source repositories 
 - Translang: Translation service modules with language translation APIs. ((Python Package, 2023)
 - Co-Coder: Debugging aid with OpenAI Chat GPT and Google Bard in ipython. (Python Package, 2023)
 - Multi-objective-recommender: E-commerce based recommendation system. (Recommendation System, 2023)
-- Algorithms for key factor extraction from engineering drawings. (Hyundai Motor Group / Vision, 2022)
-- Noise source visualization, location determination, and clustering. (Hyundai Motor Group / Vision, 2022)
-- Data cleansing and PySpark optimization. (Hyundai Motor Group / Big Data, Analysis, 2022)
-- Noise source analysis automation. (Hyundai Motor Group / Vision, Predcition, Time Series, 2022)
+- Algorithms for key factor extraction from engineering drawings. (**Hyundai Motor Group** / Vision, 2022)
+- Noise source visualization, location determination, and clustering. (**Hyundai Motor Group** / Vision, 2022)
+- Data cleansing and PySpark optimization. (**Hyundai Motor Group **/ Big Data, Analysis, 2022)
+- Noise source analysis automation. (**Hyundai Motor Group** / Vision, Predcition, Time Series, 2022)
 - 3D body shape prediction from time-series data. (Time Series, 2022)
 - Body classification and prediction models from time-series data. (Vision, Time Series, 2022)
+- - Real estate market prediction and analysis. (**Microsoft Korea, KB Financial Group** / Analysis, Time Series, 2021)
 - Power line abnormality detection using KEPCO big data. (Vision, 2021)
-- Real estate market prediction and analysis. (Predcition, Time Series, 2021)
 - Food ingredient discovery platform development. (NLP, Big Data, 2021)
-- Protein analysis software from Alzheimer's disease papers. (NLP, 2021)
+- Protein analysis software from Alzheimer's disease papers. (Big Data, NLP, 2021)
 - Biological age and disease prediction algorithms from Korea NHISS data. (AI for life, Analysis, 2021)
 - Heat efficiency and energy optimization algorithm development. (Prediction, Time Serise, Optimization, 2021)
 - Medical term database preprocessing automation. (AI for Life, 2021)
 - Animal metabolite-based disease and vitality prediction. (Predcition, Analysis, 2021)
-- Health index and intestinal microbe analysis using NHI data. (Analysis, Analysis, 2021)
+- Health index and intestinal microbe analysis using NHI data. (AI for life, Analysis, 2021)
 - Cohort-based big data analysis system for major diseases. (AI for life, Analysis, 2020)
 - Logistics and price trend analysis. (Predcition, Analysis, 2017-2018)
 - Logistics demand forecasting model development. (Time Serise, Analysis, 2017)
