@@ -51,7 +51,7 @@ _On 2023-11-07, I have decided to make the majority of repositories and Hugging 
 
 
 ### *Huggingface*
-  link: https://huggingface.co/danielpark
+  Link: https://huggingface.co/danielpark
 | Project Title                      | Backbone | Description                                                                                                                      |
 |------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------|
 | [ko-llama-2-jindo-7b-instruct](https://huggingface.co/danielpark/ko-llama-2-jindo-7b-instruct)       | [LLaMA2-7b](https://huggingface.co/llamaste/Llama-2-7b-hf)  | Korean LLM model efficiently fine-tuned with QLoRA (Efficient Finetuning of Quantized LLMs)    |
@@ -77,7 +77,7 @@ _On 2023-11-07, I have decided to make the majority of repositories and Hugging 
 ***
  
 ### *Packages*
-  pypi link: https://pypi.org/user/archi-park/ <br>
+  Pypi link: https://pypi.org/user/archi-park/ <br>
 
 | Package       | Description                                                  | Repo                                                           |
 |:--------------|:-------------------------------------------------------------|:---------------------------------------------------------------|
@@ -103,7 +103,7 @@ _On 2023-11-07, I have decided to make the majority of repositories and Hugging 
 
   
 ### *Dockerhub*
-  link: https://hub.docker.com/u/parkminwoo91
+  Link: https://hub.docker.com/u/parkminwoo91
 
 ***
 
