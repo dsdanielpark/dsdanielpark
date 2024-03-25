@@ -1,6 +1,8 @@
 
 ### *Hello, I'm MinWoo(Daniel) Park*
 
+
+
 <div align=right>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsdanielpark/)](https://www.linkedin.com/in/dsdanielpark/) 
@@ -16,11 +18,20 @@
 *Research Interests:* Large Language Models, Optimization Techniques, Vector Databases
 <br>
 
+
+
+
+
 <p align="center">
 <a href="https://github.com/dsdanielpark">
+  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dsdanielpark&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dsdanielpark&layout=compact&langs_count=8&theme=nord"/>
 </a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width="793" src="https://github-profile-trophy.vercel.app/?username=dsdanielpark&theme=chalk" alt="trophy">
+</a>
+
 </p>
 
 
