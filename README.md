@@ -29,7 +29,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dsdanielpark&layout=compact&langs_count=8&theme=nord"/>
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="793" src="https://github-profile-trophy.vercel.app/?username=dsdanielpark&theme=chalk" alt="trophy">
+    <img width="793" src="https://github-profile-trophy.vercel.app/?username=dsdanielpark&theme=chalk&rank=-C" alt="trophy">
 </a>
 
 </p>
