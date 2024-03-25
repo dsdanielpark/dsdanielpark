@@ -38,7 +38,11 @@
 
 <br>
 
-## Portfolio Contents
+<details><summary>For more details</summary
+
+<br>
+
+## Contents
 _On 2023-11-07, I have decided to make the majority of repositories and Hugging Face models **private**._
 - [*Large Language Model*](#large-language-model)
 - [*Huggingface*](#huggingface)
@@ -120,39 +124,40 @@ _On 2023-11-07, I have decided to make the majority of repositories and Hugging 
 
 ### *Work Experience*
 
-<details>
-<summary>Work Experience</summary>
 <div style="overflow-x: auto;">
-
+  
 #### 01 Internal Projects (2017 - 2022)
-- **Inflow Analysis/Product Selection/Trend Analysis/Price Trend/Logistics Demand Prediction Model** (2017-2018, Recommender System, Natural Language Processing)
-- **Analysis of National Health Insurance Service (NHIS) Data and Development of Biological Age Calculation Algorithm, Disease Prevalence Prediction** (2020, Machine Learning)
-- **Detection of Overhead Wires using Big Data from Korea Electric Power Corporation (KEPCO)** (2021, Computer Vision)
-- **Development Planning of Food Ingredient Discovery and Characterization Platform** (2021, Machine Learning, Natural Language Processing)
-- **Software Development for Automating Protein Mechanisms, Interactions, and Molecular Structure Extraction and Analysis from Alzheimer's Disease Papers** (2021, Natural Language Processing, Computer Vision)
-- **Prediction of Diseases and Physical Vitality based on Animal Metabolite (Fur/Blood) Datasets** (2021, Machine Learning, Natural Language Processing)
-- **Anomaly Signs Prediction, Health Index Forecast, Gut Microbiome Data Analysis using National Health Insurance Data** (2021, Machine Learning, Natural Language Processing)
-- **Development Planning for Heat Efficiency and Energy Optimization Algorithms in Sihwabanwol Industrial Complex** (2021, Optimization)
-- **Development of Automatic Brain Structure Segmentation and Tumor Area Segmentation Model using MRI and CT Images and Skull Extraction Algorithms** (2022, Computer Vision)
-- **Development of Body Type Classification and 3D Body Shape Change Prediction Model based on Time-Series Korean Body Data Collection** (2022, Computer Vision)
-- **Algorithm and Deep Learning Model Development for Extracting Drawing Factors from Engineering Drawings** (2022, Computer Vision)
-- **Algorithm for Visualization and Analysis of Noise Sources, Automation Pipeline for Noise Source Localization and Clustering** (2022, Computer Vision)
+- Inflow Analysis/Product Selection/Trend Analysis/Price Trend/Logistics Demand Prediction Model (2017-2018, Recommender System, Natural Language Processing)
+- Analysis of National Health Insurance Service (NHIS) Data and Development of Biological Age Calculation Algorithm, Disease Prevalence Prediction (2020, Machine Learning)
+- Detection of Overhead Wires using Big Data from Korea Electric Power Corporation (KEPCO) (2021, Computer Vision)
+- Development Planning of Food Ingredient Discovery and Characterization Platform (2021, Machine Learning, Natural Language Processing)
+- Software Development for Automating Protein Mechanisms, Interactions, and Molecular Structure Extraction and Analysis from Alzheimer's Disease Papers (2021, Natural Language Processing, Computer Vision)
+- Prediction of Diseases and Physical Vitality based on Animal Metabolite (Fur/Blood) Datasets (2021, Machine Learning, Natural Language Processing)
+- Anomaly Signs Prediction, Health Index Forecast, Gut Microbiome Data Analysis using National Health Insurance Data (2021, Machine Learning, Natural Language Processing)
+- Development Planning for Heat Efficiency and Energy Optimization Algorithms in Sihwabanwol Industrial Complex (2021, Optimization)
+- Development of Automatic Brain Structure Segmentation and Tumor Area Segmentation Model using MRI and CT Images and Skull Extraction Algorithms (2022, Computer Vision)
+- Development of Body Type Classification and 3D Body Shape Change Prediction Model based on Time-Series Korean Body Data Collection (2022, Computer Vision)
+- Algorithm and Deep Learning Model Development for Extracting Drawing Factors from Engineering Drawings (2022, Computer Vision)
+- Algorithm for Visualization and Analysis of Noise Sources, Automation Pipeline for Noise Source Localization and Clustering (2022, Computer Vision)
 
 #### 02 Personal Projects (2022 - 2023)
-- **Bard-API**: Unofficial Python Package for Fetching Responses from Google Bard (GitHub Star 5.4k, Downloads 379k, 2023, Python Development)
-- **ExceptNotifier**: Package for Sending Detailed Error Messages to Users via Messenger when Errors Occur in try-except Statements (Downloads 27k, 2023, Python Development)
-- **All About LLM**: Documentation of Papers and Projects on Large Language Models (2023, LLM)
-- **Ko LLaMa2 Jindo**: Project Focused on Creating a Korean Natural Language Model, Entire Pipeline Construction and Lightweighting (2023, LLM)
-- **GORANI**: Multipurpose Korean LLM Development Project based on LLaMA2 (2023, LLM)
-- **HF Trans LLM**: Translator Project for Multilingual Translation and Text Generation (2023, LLM, Python Development)
-- **Korean Open LLM Datasets-chain**: Project for Collecting/Processing Korean LLM Datasets (2023, Python Development, LLM)
-- **Open LLM Datasets**: Compilation of Datasets and Papers Used in Open LLM (2023, Python Development, LLM)
-- **Open LLM Leaderboard-report**: Visualization of Performance of Open Source LLMs based on Four Metrics for Performance Comparison (2023, LLM)
-- **Medical QA Bert Chat GPT**: Fine-tuning GPT-2 for Question-Answering in the Medical Domain (2023, LLM)
-- **Translang**: Translation Service Module Providing API for Language Translation (2023, Python Development)
-- **Fine-tuned-korean-bert-news-article-classifier**: Model Development for News Article Topic Classification, Comparing BERT Implementations in Various Frameworks (2023, LLM)
-- **Multi Objective Recommender**: Project to Build a Multi-Objective Recommendation System based on Real E-commerce Sessions (2023, Recommender System)
-- **Co Coder**: Python Package to Simplify Debugging using OpenAI Chat GPT and Google Bard (2023, Python Development)
-- **EDA-Nif**: Organizing Metadata of Medical AI Nifti Files and Providing Some Functions such as Image Registration and Arbitrary Slicing (2022, AI for Life)
+- Bard-API: Unofficial Python Package for Fetching Responses from Google Bard (GitHub Star 5.4k, Downloads 379k, 2023, Python Development)
+- ExceptNotifier: Package for Sending Detailed Error Messages to Users via Messenger when Errors Occur in try-except Statements (Downloads 27k, 2023, Python Development)
+- All About LLM: Documentation of Papers and Projects on Large Language Models (2023, LLM)
+- Ko LLaMa2 Jindo: Project Focused on Creating a Korean Natural Language Model, Entire Pipeline Construction and Lightweighting (2023, LLM)
+- GORANI: Multipurpose Korean LLM Development Project based on LLaMA2 (2023, LLM)
+- HF Trans LLM: Translator Project for Multilingual Translation and Text Generation (2023, LLM, Python Development)
+- Korean Open LLM Datasets-chain: Project for Collecting/Processing Korean LLM Datasets (2023, Python Development, LLM)
+- Open LLM Datasets: Compilation of Datasets and Papers Used in Open LLM (2023, Python Development, LLM)
+- Open LLM Leaderboard-report: Visualization of Performance of Open Source LLMs based on Four Metrics for Performance Comparison (2023, LLM)
+- Medical QA Bert Chat GPT: Fine-tuning GPT-2 for Question-Answering in the Medical Domain (2023, LLM)
+- Translang: Translation Service Module Providing API for Language Translation (2023, Python Development)
+- Fine-tuned-korean-bert-news-article-classifier: Model Development for News Article Topic Classification, Comparing BERT Implementations in Various Frameworks (2023, LLM)
+- Multi Objective Recommender: Project to Build a Multi-Objective Recommendation System based on Real E-commerce Sessions (2023, Recommender System)
+- Co Coder: Python Package to Simplify Debugging using OpenAI Chat GPT and Google Bard (2023, Python Development)
+- EDA-Nif: Organizing Metadata of Medical AI Nifti Files and Providing Some Functions such as Image Registration and Arbitrary Slicing (2022, AI for Life)
 </div>
-</details>
+
+
+
+ </details>
