@@ -15,7 +15,6 @@
 - Currently, I am focusing on advancing the field ofthe state-of-the-art LLM (Language Model) technology.
 - I believe that all the knowledge I have gained will converge at the end of my journey.
 
-*Research Interests:* Large Language Models, Optimization Techniques, Vector Databases
 <br>
 
 
