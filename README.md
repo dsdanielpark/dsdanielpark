@@ -20,6 +20,11 @@
 
 
 
+<br>
+
+<details><summary>For more details</summary
+
+<br>
 
 
 <p align="center">
@@ -36,11 +41,6 @@
 
 
 
-<br>
-
-<details><summary>For more details</summary
-
-<br>
 
 ## Contents
 _On 2023-11-07, I have decided to make the majority of repositories and Hugging Face models **private**._
