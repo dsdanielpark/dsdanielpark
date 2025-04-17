@@ -3,12 +3,6 @@
 
 
 
-<div align=right>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dsdanielpark/)](https://www.linkedin.com/in/dsdanielpark/) 
-
-<!--<a href="https://www.buymeacoffee.com/parkminwoo"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-orange.png" height="20px"></a>-->
-</div>
 
 - I am a passionate developer adept at leveraging Machine Learning and Deep Learning technologies to address challenges across diverse domains. 
 - My extensive experience and knowledge in fields such as LLM, Natural Language Processing, Computer Vision, and the medical and healthcare sectors have enabled me to connect the dots and craft sophisticated solutions for a broad range of industry problems. <br>
