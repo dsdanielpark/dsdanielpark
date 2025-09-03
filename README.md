@@ -15,10 +15,6 @@
 
 <br>
 
-<details><summary>For more details</summary
-
-<br>
-
 
 <p align="center">
 <a href="https://github.com/dsdanielpark">
